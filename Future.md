@@ -15,7 +15,7 @@
 	The same for **About-to** 
 
 ## Simple Present as Future
-see [[Present#Present Simple|Present SImple]]
+see [[Present#Present Simple|Present Simple]]
 
 ## Future Progressive
 - subject **will (not) be** verb+ing

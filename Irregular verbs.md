@@ -1,5 +1,5 @@
 
-| Infinitive (V1)   | Simple Past (V2) | Past Participle (V3) | 3rd singular  |
+| Infinitive (V1)   | Simple Past (V2) | Past Participle (V3) | 3rd person present  |
 | ----------- | ----------- | --- | --- |
 | be      | was/were       | been  | is |
 | do |	did |	done | does |
@@ -11,4 +11,4 @@
 | begin | began | begun | begins |
 
 - **was** = I, He, She, It. **were** = We, You, They. (**Note**: If it’s an imaginary situation, use **if I were**)
-- **3rd singular** - (He, She, It) - verb(s) / irregular verb
+- **3rd person present** - (He, She, It) - verb(s) / irregular verb. **Do not use together with an auxiliary verb.**

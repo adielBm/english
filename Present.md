@@ -4,13 +4,13 @@
 - Q - **do/does** subject verb
 - Negative Q - **do/does** subject **not** *verb* / **don't/doesn't** subject *verb* 
 
-## Present Perfect 
-- subject **have/has** (not) [[Irregular verbs|V3]]
-- Q -  **have/has** subject [[Irregular verbs|V3]]
-
 ## Present Progressive 
 - subject **am/are/is** (not) verb-**ing**
 - Q - **am/are/is** subject verb-ing
+
+## Present Perfect 
+- subject **have/has** (not) [[Irregular verbs|V3]]
+- Q -  **have/has** subject [[Irregular verbs|V3]]
 
 ## Present Perfect Progressive
 - subject **have/has (not) been** verb-ing 
