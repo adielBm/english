@@ -22,7 +22,7 @@
 
 - An action that occurred in the past, but has a result in the present
 - **Unspecified time in the past** - *I **have visited** Paris many times*
-- Events that recently occurred - *Look! **I have cook** dinner for us, It's ready now*
+- Events that recently occurred - *Look! **I have cooked** dinner for us, It's ready now*
 
 # Past
 
