@@ -1,21 +1,8 @@
-
-
-## Simple Future (will-future)
+## Future Simple
 - subject **will (not)** verb
 - Q - **will** subject verb
 
-	The same for **shall** 
-
-
-## Going-to future (Present Progressive)
-
-- subject **am/are/is (not) going to** verb
-- Q - **am/are/is** subject **going to** verb
-
-	The same for **About-to** 
-
-## Simple Present as Future
-see [[Present#Present Simple|Present Simple]]
+	Note: **Shall** can also be used instead of will in the simple future tense.
 
 ## Future Progressive
 - subject **will (not) be** verb+ing
@@ -26,17 +13,14 @@ see [[Present#Present Simple|Present Simple]]
 -  Q - **will** subject **have** [[Irregular verbs|V3]]
 
 ## Future Perfect Progressive
-- subject **will have been** verv-ing
-- Q -  **will** subject **have been** verv-ing
+- subject **will have been** verv+ing
+- Q - **will** subject **have been** verv+ing
 
-# (be, do, have) as main verb
+___
+## Going-to future (Present Progressive)
 
-### be
-- subject **will (not) be** noun/adj
+- subject **am/are/is (not) going to** verb
+- Q - **am/are/is** subject **going to** verb
 
-### do
-- subject **will (not) do** noun
-
-### have
-- subject **will (not) have** noun
+	The same for **About-to** 
 

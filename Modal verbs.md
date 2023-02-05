@@ -1,10 +1,14 @@
-- can / could
-- may / might
-- shall / should
-- will / would
-- must
 
-### semi modals
+| Present tense | Past tense |
+| ------------- | ---------- |
+| can           | could      |
+| may           | might      |
+| shall         | should     |
+| will          | would           |
+| must          |            |
+
+
+## Semi modals
 - ought to 
 - need
 - dare 
@@ -35,6 +39,7 @@
 
 
 ## have/has/had to
+
 ### Present
 - subject **have/has to** verb
 - N - subject do/does not **have to** verb 
