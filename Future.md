@@ -1,6 +1,7 @@
 ## Future Simple
 - subject **will (not)** verb
 - Q - **will** subject verb
+- NQ - **will** subject **not** verb / **won't** subject verb
 
 	Note: **Shall** can also be used instead of will in the simple future tense.
 

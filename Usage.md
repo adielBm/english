@@ -19,10 +19,17 @@
 - **Emphasize frequency** ^[of an action in a humorous or hyperbolic way] - *He is always eating chocolate!*
 
 ## Present Perfect 
-
-- An action that occurred in the past, but has a result in the present
+- An ongoing action that **started in the past**, but has a **result in the present** - *They **have played** piano since the age of three*
+  
+	Note that you can also use the present perfect continuous tense for this situation, as long as the action has not been completed yet (and it’s not a stative verb). The difference between the present perfect tense and the present perfect continuous tense, in this case, is emphasis: 
+	- The *present perfect* tense emphasizes the **effects** or **consequences** of the action. 
+	- The *present perfect continuous* tense emphasizes the **action itself** or the **length of time**.
+  
 - **Unspecified time in the past** - *I **have visited** Paris many times*
-- Events that recently occurred - *Look! **I have cooked** dinner for us, It's ready now*
+- An action that was completed very recently (just, now) - *Look! **I have cooked** dinner for us, It's ready now*
+- A change over time - *My cousin **has grown** so much since I saw her two years ago*
+- An uncompleted action that is expected to be finished (in the negative) - *I **haven’t finished** my paper, but it’s due in an hour!*
+- To add significance to a completed action - *I **have met** the love of my life!*
 
 # Past
 
@@ -40,6 +47,11 @@
 - **two actions in parallel** - *While you **were washing** the dishes, Sue **was walking** the dog.*
 - **Storytelling** - *The sun **was shining** and the birds **were singing**...*
 - 
+
+TODO
+Ongoing actions at a specified time ^[if the action started before that time and continued afterward. If the action begins at the time mentioned, use the simple past instead] - *At midnight, everyone at the party was still having fun*
+TODO
+.
 
 ## Past Perfect
 

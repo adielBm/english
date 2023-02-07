@@ -1,9 +1,9 @@
 ## Present Simple 
 - Basic - subject verb(**s**)
-- Negative - subject **do/does not** verb
-- Emphasis - subject **do/does** verb
-- Question - **do/does** subject verb
-- Negative Question - **do/does** subject **not** *verb* / **don't/doesn't** subject *verb*
+- Expanded (emphatic) - subject **do/does** verb
+- N - subject **do/does not** verb
+- Q - **do/does** subject verb
+- NQ - **do/does** subject **not** *verb* / **don't/doesn't** subject *verb*
 
 ## Present Progressive 
 - subject **am/are/is** (not) verb-ing
