@@ -5,11 +5,14 @@
 | **PTCL** | [[#Particle]]      | מילית      |
 | **DET**  | [[#Determiner]]    | מגדיר      |
 | **V**    | [[#Verb]]          | פועל       |
-| **N**    | Noun               | שם עצם     |
+| **N**    | [[#Noun]]          | שם עצם     |
 | **Adj**  | Adjective          | שם תואר    |
 | **Adv**  | Adverb             | תואר הפועל |
+| **CONJ** | [[#Conjunctions]]  | מילת קישור |
 |          | [[#Interjections]] | מילת קריאה |
-|  **CONJ**        | [[#Conjunctions]]                    |    מילת קישור
+
+
+
 
 # Pronoun 
 
@@ -34,7 +37,7 @@
 
 # Determiner
 
-Determiners are distinguished from pronouns by the presence of noun after the determiners.
+Determiners are distinguished from pronouns by the presence of noun after the determiner.
 
 
 | en                       | he  |     |
@@ -83,37 +86,61 @@ next to
 
 participle - בינוני
 
-| en                              | he                  |
-| ------------------------------- | ------------------- |
-| Dynamic (Action) Verbs        | פעלי פעולה          |
-| Stative verbs                   | פעלי מצב            |
-| Transitive verbs                | פועל יוצא           |
-| Intransitive verbs              | פועל עומד           |
-| Ambitransitive verb             | פועל עומד-יוצא                    |
-| Light verbs                     |                     |
-| Causative verb                  | פועל גרימה          |
-| Linking verbs                   |                     |
-| Helping verbs (auxiliary verbs) | פועל עזר            |
-| Modal verbs                     |                     |
-| Regular verbs                   |                     |
-| Irregular verbs                 |                     |
-| Phrasal verbs                   | צירוף פועלי         |
-| Infinitives                     |                     |
-| finite verbs                    | פועל נטוי לפי גופים |
-| infinitive                      | שם הפועל            |
+| en                                   | he                  |     |
+| ------------------------------------ | ------------------- | --- |
+| Dynamic (Action) Verbs               | פעלי פעולה          |     |
+| Stative verbs                        | פעלי מצב            |     |
+| Transitive verbs                     | פועל יוצא           | with a direct object    |
+| Intransitive verbs                   | פועל עומד           | without a direct object    |
+| Ambitransitive verb                  | פועל עומד-יוצא      | can be either transitive or intransitive    |
+| ditransitive (or bitransitive) verbs | פועל דו-יוצא        | can take two objects, a direct object and an indirect object.    |
+| Light verbs                          |                     |     |
+| Causative verb                       | פועל גרימה          |     |
+| Linking verbs                        |                     |     |
+| Helping verbs (auxiliary verbs)      | פועל עזר            |     |
+| Modal verbs                          |                     |     |
+| Regular verbs                        |                     |     |
+| Irregular verbs                      |                     |     |
+| Phrasal verbs                        | צירוף פועלי         |     |
+| Infinitives                          |                     |     |
+| finite verbs                         | פועל נטוי לפי גופים |     |
+| infinitive                           | שם הפועל            |     |
 
 
 
+| direct object | מושא ישיר |  |
+| indirect object | מושא עקיף |  |
 
-# Interjections
-_yeah_, _ouch_, _Jesus_, _oh_, _mercy_, _yuck_, etc.
 
+
+# Noun
+
+|     | en                | he             |     |
+| --- | ----------------- | -------------- | --- |
+|     | proper noun       | שם עצם פרטי    |     |
+|     | common noun       | שם עצם כללי    |     |
+|     | concrete noun     | שם עצם מוחשי   |     |
+|     | abstract noun     | שם עצם מופשט   |     |
+|     | collective noun   | שם עצם קיבוצי  |     |
+| nc  | countable noun    | שם עצם ספיר    |     |
+| nu  | uncountable nouns | שם עצם לא ספיר |     |
+|     | verbal noun       | שם פעולה       |     |
+|     | gerund                  |                |     |
 
 
 # Conjunctions
 - **Coordinating** conjunctions (coordinators) - (קשר איחוי) - (for, and, or, but, so)
 - **Correlative** conjunctions (קשר זווג) - (*both...and, whether...or, just as...so, the...the, as...as*)
 - **Subordinating** conjunction - (conjunctive adverbs) - (קשר שעבוד) - (*although, because, rather, however*)
-- 
+
+
+___
+
+# Interjections
+_yeah_, _ouch_, _Jesus_, _oh_, _mercy_, _yuck_, etc.
+
+
+
+
 
 ___

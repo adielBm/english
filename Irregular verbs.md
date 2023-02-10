@@ -16,7 +16,7 @@
 | become | became | become | becomes |
 | begin | began | begun | begins |
 
-- **was** = I, He, She, It. **were** = We, You, They. (**Note**: If it’s an imaginary situation, use **if I were**)
+- **was** = I, He, She, It. **were** = We, You, They. ^[**Note**: If it’s an imaginary situation, use **if I were**]
 
 
 [^1]: Do not use together with an **auxiliary verb**

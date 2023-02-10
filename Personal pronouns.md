@@ -29,14 +29,6 @@
 <td>yourself</td>
 </tr>
 <tr>
-<th colspan="2">Second (poetic/dialect)</th>
-<td>thou</td>
-<td>thee</td>
-<td>thy</td>
-<td>thine</td>
-<td>thyself</td>
-</tr>
-<tr>
 <th rowspan="4">Third</th>
 <th>Masculine</th>
 <td>he</td>
