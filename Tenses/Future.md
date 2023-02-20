@@ -10,8 +10,8 @@
 - Q - **will** subject **be** verb+ing
 
 ## Future Perfect
-- subject **will (not) have** [[Irregular verbs|V3]]
--  Q - **will** subject **have** [[Irregular verbs|V3]]
+- subject **will (not) have** V3
+-  Q - **will** subject **have** V3
 
 ## Future Perfect Progressive
 - subject **will have been** verv+ing
@@ -23,8 +23,8 @@ ___
 >The same for **About-to** 
 
 #### Future Simple 
-subject **(am/are/is) going to** verb
+- subject **(am/are/is) going to** verb
 
 #### Future Progressive
-subject **(am/are/is) going to be** verb-ing 
+- subject **(am/are/is) going to be** verb-ing 
 

@@ -10,8 +10,8 @@
 - Q - **am/are/is** subject verb-ing
 
 ## Present Perfect 
-- subject **have/has** (not) [[Irregular verbs|V3]]
-- Q -  **have/has** subject [[Irregular verbs|V3]]
+- subject **have/has** (not) V3
+- Q -  **have/has** subject V3
 
 ## Present Perfect Progressive
 - subject **have/has (not) been** verb-ing 

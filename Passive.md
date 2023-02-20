@@ -18,7 +18,10 @@
 |      Perfect	| 	**(have/has) gotten** V3	| 	**had gotten** V3	| **will have gotten** V3                |
 
 > Get-passives are found only with dynamic verbs.
-	
+
+
+
+
 
 > It is thought to be ...
 > subject **thought to be** ...

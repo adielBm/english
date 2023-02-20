@@ -3,7 +3,7 @@
 - **Past Tense**[^1] (V2) - regularly **-ed** suffix / irregular forms
 - **Past Participle** (V3) -  regularly **-ed** suffix / irregular forms
 - **Present Participle** - which is formed with an **-ing** suffix
-- **3rd Person Present**[^1] - (He, She, It) - verb(s) / irregular verb.
+- **3rd Person Present**[^1] - (He, She, It) - verb(s) / irregular forms.
 
 | Base form  | Past Tense (V2) | Past Participle (V3) | 3rd person present  |
 | ----------- | ----------- | --- | --- |

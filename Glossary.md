@@ -35,7 +35,7 @@
 
 # Determiner
 
-Determiners are distinguished from pronouns by the presence of noun after the determiner.
+>**Determiners** are distinguished from **pronouns** by the presence of noun after the determiner.
 
 | en                       | he  |     |
 | ------------------------ | --- | --- |

@@ -1,5 +1,5 @@
 ## Past simple
-- Basic - subject [[Irregular verbs|V2]]
+- Basic - subject V2
 - Expanded (emphatic) - subject **did** verb
 - N - subject **did not** verb
 - Q - **did** subject verb
@@ -10,8 +10,8 @@
 - Q - **was/were** subject *verb*+ing
 
 ## Past Perfect
-- subject **had** (not) [[Irregular verbs|V3]]
-- Q - **had** subject [[Irregular verbs|V3]]
+- subject **had** (not) V3
+- Q - **had** subject V3
 
 ## Past Perfect Progressive
 - subject **had (not) been** *verb*+ing
