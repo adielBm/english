@@ -3,18 +3,18 @@
 
 ### Monophthongs
 
-| IPA     | NOAD | KEYWORD |          |            |          |          |           |                                                                                          |
-| ------- |:---- | ------- | -------- | ---------- | -------- | -------- | --------- | ---------------------------------------------------------------------------------------- |
-| **/i/** | ē    | FLEECE  | f**ee**l | b**ea**d   | s**ea**t | h**ea**t | sl**ee**p | ver**y**, b**e**, **ea**t, s**ee**, f**ie**ld, k**ey**, m**e**, **e**ven                 |
-| **/ɪ/** | i    | KIT     | f**i**ll | b**i**d    | s**i**t  | h**i**t  | sl**i**p  | p**i**nk, **i**t, b**i**g, **e**nough, b**u**sy                                          |
-| **/ɛ/** | e    | DRESS   |          | b**e**d    | s**e**t  |          |           | r**e**d, **e**ver, h**ea**d, g**e**t, l**e**t                                            |
-| **/æ/** | a    | TRAP    |   | b**a**d    | s**a**t  | h**a**t  | c**a**p          | **a**pple, c**a**n, b**a**ck, d**a**d                                                    |
-| **/ʌ/** | ə    | STRUT   |   | b**u**d    |          | h**u**t  |  c**u**p         | **u**p, m**o**ther, b**u**ddy, m**u**d, r**u**n, **o**ther, s**o**me, f**u**n            |
-| **/ɑ/** | ä    | PALM    |   | b**o**d(y) |          | h**o**t  |   c**o**p        | n**o**t, b**o**dy, w**a**nt, f**a**ther, st**o**p, g**o**t                               |
-| **/ə/** | ə    | Schwa   |  -f**u**l  |                  |          |          |           | **a**bout, th**e**, **a**gain, circ**us**, t**o**day,list**e**n, prod**u**ct, penc**i**l |
-| **/ɔ/** | ô    | THOUGHT |    f**a**ll        |             |       |          |           | **a**ll, **o**n, t**a**lk, l**o**st, s**aw**, d**au**ghter                               |
-| **/ʊ/** | o͝o  | FOOT    |    f**u**ll          |           |       |          |           | g**oo**d, b**oo**k, p**u**t, w**ou**ld                                                   |
-| **/u/** | o͞o  | GOOSE   |        f**oo**l        |          |      |          |           | tr**ue**, y**ou**, t**oo**, n**ew**                                                      |
+| IPA     | NOAD | KEYWORD |          |            |          |          |           |                                                                                           |     |
+| ------- |:---- | ------- | -------- | ---------- | -------- | -------- | --------- | ----------------------------------------------------------------------------------------- | --- |
+| **/i/** | ē    | FLEECE  | f**ee**l | b**ea**d   | s**ea**t | h**ea**t | sl**ee**p | ver**y**, b**e**, **ea**t, s**ee**, f**ie**ld, k**ey**, m**e**, **e**ven                  |  `<a>` before `<l>`, `<au>`, `<aw>`, `<ough>`, various   |
+| **/ɪ/** | i    | KIT     | f**i**ll | b**i**d    | s**i**t  | h**i**t  | sl**i**p  | p**i**nk, **i**t, b**i**g, **e**nough, b**u**sy                                           |     |
+| **/ɛ/** | e    | DRESS   |          | b**e**d    | s**e**t  |          |           | r**e**d, **e**ver, h**ea**d, g**e**t, l**e**t                                             |     |
+| **/æ/** | a    | TRAP    |          | b**a**d    | s**a**t  | h**a**t  | c**a**p   | **a**pple, c**a**n, b**a**ck, d**a**d                                                     |     |
+| **/ʌ/** | ə    | STRUT   |          | b**u**d    |          | h**u**t  | c**u**p   | **u**p, m**o**ther, b**u**ddy, m**u**d, r**u**n, **o**ther, s**o**me, f**u**n             |     |
+| **/ɑ/** | ä    | PALM    |          | b**o**d(y) |          | h**o**t  | c**o**p   | n**o**t, b**o**dy, w**a**nt, f**a**ther, st**o**p, g**o**t                                |     |
+| **/ɔ/** | ô    | THOUGHT | f**a**ll |            |          |          |           | **a**ll, **o**n, t**a**lk, l**o**st, s**aw**, d**au**ghter                                |     |
+| **/ə/** | ə    | Schwa   | -f**u**l |            |          |          |           | **a**bout, th**e**, **a**gain, circ**us**, t**o**day, list**e**n, prod**u**ct, penc**i**l |     |
+| **/ʊ/** | o͝o  | FOOT    | f**u**ll |            |          |          |           | g**oo**d, b**oo**k, p**u**t, w**ou**ld                                                    |     |
+| **/u/** | o͞o  | GOOSE   | f**oo**l |            |          |          |           | tr**ue**, y**ou**, t**oo**, n**ew**                                                       |     |
 
 ### Diphthongs (gliding) vowels
 
