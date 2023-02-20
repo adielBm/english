@@ -12,8 +12,6 @@
 |          | [[#Interjections]] | מילת קריאה |
 
 
-
-
 # Pronoun 
 
 | en                        | he                        |                                                 |
@@ -39,7 +37,6 @@
 
 Determiners are distinguished from pronouns by the presence of noun after the determiner.
 
-
 | en                       | he  |     |
 | ------------------------ | --- | --- |
 | **article**              |  תווית   |   (**definite article** - the. **indefinite articles** - a, an)   |
@@ -49,12 +46,9 @@ Determiners are distinguished from pronouns by the presence of noun after the de
 | Quantifiers              |     |  (_all_, _some_, _many_, _little_, _few_, and _no_)   |
 |   numeral (or number word)                        |     |     |
 
-
 # Particle
 
 ### interrogative word (question word, wh-words )
-
-
 
 
 # Preposition
@@ -69,7 +63,6 @@ next to
 ### Double preposition
 
 
-
 ### Compound prepositions
 (*into, onto, throughout, upon, within, without*)
 
@@ -78,7 +71,6 @@ next to
 
 ##### Intransitive prepositions
 (_downhill_, _downstage_, _downstairs_, and _downstream_)
-
 
 ### Dependent prepositions
 

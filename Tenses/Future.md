@@ -3,7 +3,7 @@
 - Q - **will** subject verb
 - NQ - **will** subject **not** verb / **won't** subject verb
 
-	Note: **Shall** can also be used instead of will in the simple future tense.
+>**Shall** can also be used instead of will in the simple future tense.
 
 ## Future Progressive
 - subject **will (not) be** verb+ing
@@ -18,10 +18,13 @@
 - Q - **will** subject **have been** verv+ing
 
 ___
-## Going-to future (Present Progressive)
+# Going-to future 
 
-- subject **am/are/is (not) going to** verb
-- Q - **am/are/is** subject **going to** verb
+>The same for **About-to** 
 
-	The same for **About-to** 
+#### Future Simple 
+subject **(am/are/is) going to** verb
+
+#### Future Progressive
+subject **(am/are/is) going to be** verb-ing 
 

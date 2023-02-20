@@ -2,6 +2,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/General_American_monophthong_chart.svg" alt="drawing" width="180" />
 
 ### Monophthongs
+
 | IPA     | NOAD | KEYWORD |          |            |          |          |           |                                                                                          |
 | ------- |:---- | ------- | -------- | ---------- | -------- | -------- | --------- | ---------------------------------------------------------------------------------------- |
 | **/i/** | ē    | FLEECE  | f**ee**l | b**ea**d   | s**ea**t | h**ea**t | sl**ee**p | ver**y**, b**e**, **ea**t, s**ee**, f**ie**ld, k**ey**, m**e**, **e**ven                 |
@@ -66,6 +67,5 @@
 | **/t̬/** | d    | wa**t**er, ci**t**y, li**tt**le, beau**t**y                                          |
 | **/ʔ/**  | t    | ea**t**en, co**tt**on, cer**t**ain, bu**tt**on, impor**t**ant                        |
 | **/z/**  | z    | ea**s**y, plea**s**e, **z**oo, de**ss**ert, bu**zz**, e**x**act                      |
-
 
 ^[https://en.wikipedia.org/wiki/Lexical_set] 

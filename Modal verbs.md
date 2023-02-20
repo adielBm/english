@@ -1,4 +1,3 @@
-
 | Present tense | Past tense |
 | ------------- | ---------- |
 | can           | could      |
@@ -6,7 +5,6 @@
 | shall         | should     |
 | will          | would           |
 | must          |            |
-
 
 ## Semi modals
 - ought to 

@@ -36,24 +36,25 @@
 ## Past Simple 
 
 - **Specified time in the past** - *I **visited** Paris last year*
-- past habitual actions - *I **visited** them every day for a year*
-- refer to a past state - *I **knew** how to fight even as a child*
-- facts - *Columbus **discovered** America in 1492*
-- stative verbs - *At three o'clock yesterday we **were** in the garden*
+- Past habitual actions - *I **visited** them every day for a year*
+- Refer to a past state - *I **knew** how to fight even as a child*
+- Facts - *Columbus **discovered** America in 1492*
+- Stative verbs - *At three o'clock yesterday we **were** in the garden*
 
 ## Past progressive
 
-- **Background action of past event** - *When I **was washing** the dishes, I **heard** (past simple) a loud noise.*
-- **two actions in parallel** - *While you **were washing** the dishes, Sue **was walking** the dog.*
+- **Ongoing background actions of past time** - *When I **was washing** the dishes, I **heard** (past simple) a loud noise.*
+- **Two actions in parallel** - *While you **were washing** the dishes, Sue **was walking** the dog.*
+- **Emphasizing how long a past action took** - *The children were playing in the park for the whole afternoon*
 - **Storytelling** - *The sun **was shining** and the birds **were singing**...*
-- 
-
-TODO
-Ongoing actions at a specified time ^[if the action started before that time and continued afterward. If the action begins at the time mentioned, use the simple past instead] - *At midnight, everyone at the party was still having fun*
-TODO
-.
 
 ## Past Perfect
 
 - Event that took place before another event in the past - *The train **had left** before we **arrived** (past simple) at the station*
-- 
+
+
+# Futrue 
+
+Futrue simple 
+
+-  
