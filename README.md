@@ -1,7 +1,6 @@
 My English notebook 
 
 ## Table of Content
-
 - [Glossary (eng-heb)](../main/Glossary.md)
 - Grammar 
   - Tenses
@@ -16,3 +15,9 @@ My English notebook
   - [IPA (International Phonetic Alphabet)](../main/IPA.md)
 - Vocabulary
   - [Personal pronouns](../main/Personal%20pronouns.md)
+
+
+## References
+- Huddleston R. D. & Pullum G. K. (2002). The cambridge grammar of the english language. Cambridge University Press.
+- Carter R. & McCarthy M. (2006). The cambridge grammar of english : a comprehensive guide. Cambridge University Press.
+- Carley P. & Mees I. M. (2019). American english phonetics and pronunciation practice (First). Routledge.
