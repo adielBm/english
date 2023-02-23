@@ -6,8 +6,7 @@
 | Progressive | (**am/are/is) being** V3 | **(was/were) being** V3 | **will be being** V3   |
 |      Perfect	| 	**(have/has) been** V3	| 	**had been** V3	| **will have been** V3                |
 
-- *be*-passive can be used for adjectives instead V3 
-- The *perfect progressive* form is also grammatically correct, but very rare
+>*be*-passive can be used for adjectives instead V3 
 
 ### *get*-passive
 
@@ -17,20 +16,25 @@
 | Progressive | (**am/are/is) getting** V3 | **(was/were) getting** V3 |  |
 |      Perfect	| 	**(have/has) gotten** V3	| 	**had gotten** V3	| **will have gotten** V3                |
 
-> Get-passives are found only with dynamic verbs.
+>Get-passives are found only with dynamic verbs.
+>Get-passives occur more frequently with no agent phrase than be-passives:
 
 
+###  pseudo-passives with *have*
 
+- subject (have/has/had) object V3
+- Q - (do/does/did) subject (have/has/had) object V3
 
+___
+- The *perfect progressive* form is also grammatically correct, but very rare
 
+___
 > It is thought to be ...
 > subject **thought to be** ...
 > There is **thought to be** ...
 > It isn't nice to be insulted. (passive infinitive)
 > I would have got/gotten injured if I had stayed in my place. (conditional perfect passive with get)
 > Having been humiliated, he left the stage. (passive present participle, perfect aspect)
-
-
 
 
 

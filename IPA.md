@@ -3,18 +3,19 @@
 
 ### Monophthongs
 
-| IPA     | NOAD | KEYWORD |          |            |          |          |           |                                                                                           | Spelling    |
-| ------- |:---- | ------- | -------- | ---------- | -------- | -------- | --------- | ----------------------------------------------------------------------------------------- | --- |
-| **/i/** | ē    | FLEECE  | f**ee**l | b**ea**d   | s**ea**t | h**ea**t | sl**ee**p | ver**y**, b**e**, **ea**t, s**ee**, f**ie**ld, k**ey**, m**e**, **e**ven                  |  `<ee>, <ea>, <ie>, <e>, <ei>, <i>`   |
-| **/ɪ/** | i    | KIT     | f**i**ll | b**i**d    | s**i**t  | h**i**t  | sl**i**p  | p**i**nk, **i**t, b**i**g, **e**nough, b**u**sy                                           | `<i>, <y>`    |
-| **/ɛ/** | e    | DRESS   |          | b**e**d    | s**e**t  |          |           | r**e**d, **e**ver, h**ea**d, g**e**t, l**e**t                                             |  `<e>, <ea>, <a>, <air>=/ɛr/, <are>=/ɛr/`   |
-| **/æ/** | a    | TRAP    |          | b**a**d    | s**a**t  | h**a**t  | c**a**p   | **a**pple, c**a**n, b**a**ck, d**a**d                                                     |  `<a>`   |
-| **/ʌ/** | ə    | *Stressed Schwa*   |          | b**u**d    |          | h**u**t  | c**u**p   | **u**p, m**o**ther, b**u**ddy, m**u**d, r**u**n, **o**ther, s**o**me, f**u**n             |     |
-| **/ɑ/** | ä    | PALM    |          | b**o**d(y) |          | h**o**t  | c**o**p   | n**o**t, b**o**dy, w**a**nt, f**a**ther, st**o**p, g**o**t                                | `<o>, <wa>=/wɑ/, <qua>=/kwɑ/, <a>, <al>`    |
-| **/ɔ/** | ô    | THOUGHT | f**a**ll |            |          |          |           | **a**ll, **o**n, t**a**lk, l**o**st, s**aw**, d**au**ghter                                |  `<al>, <au>, <aw>, <ough>`   |
-| **/ə/** | ə    | Schwa   | -f**u**l |            |          |          |           | **a**bout, th**e**, **a**gain, circ**us**, t**o**day, list**e**n, prod**u**ct, penc**i**l |  `<u>, <o>, <ou>`   |
-| **/ʊ/** | o͝o  | FOOT    | f**u**ll |            |          |          |           | g**oo**d, b**oo**k, p**u**t, w**ou**ld                                                    | `<ook>=/ʊk/, <-oo->, <oul>, <o>, <ul, ull>=/ʊl/, <u>`    |
-| **/u/** | o͞o  | GOOSE   | f**oo**l |            |          |          |           | tr**ue**, y**ou**, t**oo**, n**ew**                                                       |  `<oo>, <u>, <u-e>, <o>, <o-e>, <ou>, <ui>, <ue>, <eu>, <ew>`   |
+| IPA     | NOAD | KEYWORD          |      |          |            |          |           |                                                                                      | Spelling                                                     |
+| ------- |:---- | ---------------- | ---- | -------- | ---------- | -------- | --------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------ |
+| **/i/** | ē    | FLEECE           | beat | f**ee**l | b**ea**d   | h**ea**t | sl**ee**p | s**ee**, **ea**t, f**ie**ld, m**e**, **e**ven, k**ey**, b**e**                       | `<ee>, <ea>, <ie>, <e>, <ei>, <i>`                           |
+| **/ɪ/** | i    | KIT              | bit  | f**i**ll | b**i**d    | h**i**t  | sl**i**p  | p**i**nk, **i**t, b**i**g, **e**nough, b**u**sy                                      | `<i>, <y>`                                                   |
+| **/ɛ/** | e    | DRESS            | bet  | f**e**ll | b**e**d    |          |           | r**e**d, **e**ver, g**e**t, l**e**t, h**ea**d, br**ea**d, **a**ny, m**a**ny, **air** | `<e>, <ea>, <a>, <air>=/ɛr/, <are>=/ɛr/`                     |
+| **/æ/** | a    | TRAP             | bat  |          | b**a**d    | h**a**t  | c**a**p   | **a**pple, c**a**n, b**a**ck, d**a**d                                                | `<a>`                                                        |
+| **/ɑ/** | ä    | PALM             | bot  |          | b**o**d(y) | h**o**t  | c**o**p   | n**o**t, b**o**dy, w**a**nt, f**a**ther, st**o**p, g**o**t                           | `<o>, <wa>=/wɑ/, <qua>=/kwɑ/, <a>, <al>`                     |
+| **/ʌ/** | ə    | *Stressed Schwa* | but  |          | b**u**d    | h**u**t  | c**u**p   | **u**p, m**o**ther, b**u**ddy, m**u**d, r**u**n, **o**ther, s**o**me, f**u**n        | `<u>, <o>, <ou>`                                             |
+| **/ə/** | ə    | *Schwa*          |      | -f**u**l |            |          |           | **a**gain, **a**bout, t**o**day, list**e**n, stat**io**n, penc**i**l, prod**u**ct    | `<a>, <o>, <e>, <io>, <i>, <u>`                              |
+| **/ɔ/** | ô    | THOUGHT          |      | f**a**ll |            |          |           | **a**ll, **o**n, t**a**lk, l**o**st, s**aw**, d**au**ghter                           | `<o>, <al>, <au>, <aw>, <ough>`                              |
+| **/ʊ/** | o͝o  | FOOT             |      | f**u**ll |            |          |           | g**oo**d, b**oo**k, p**u**t, w**ou**ld                                               | `<ook>=/ʊk/, <-oo->, <oul>, <o>, <ul, ull>=/ʊl/, <u>`        |
+| **/u/** | o͞o  | GOOSE            | boot | f**oo**l |            |          |           | tr**ue**, y**ou**, t**oo**, n**ew**                                                  | `<oo>, <u>, <u-e>, <o>, <o-e>, <ou>, <ui>, <ue>, <eu>, <ew>` |
+
 
 ### Diphthongs (gliding) vowels
 
@@ -31,8 +32,9 @@
 ##### Monophthongs
 | IPA        |           | NOAD |     |                                                                                     |   Spelling                                                        |
 | ---------- | --------- | ---- | --- | ----------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| **`/ər/`** | **`[ɚ]`** | ər   | *Schwar*    | ov**er**, wat**er**, aft**er**, doct**or**, doll**ar**                              | `<er>, <or>, <ar>, <ur>, <ir>, <ear>, <our>, <yr>, <wor>` |
-| **`/ɜr/`**   | **`[ɝ]`**   | ər   |  *Stressed Schwar*  | p**er**son, **ear**th, f**ir**st, g**ir**l, w**or**k, w**or**ld, l**ear**n, w**orr**y |                                                           |
+| **`/ər/`** | **`[ɚ]`** | ər   | *Schwar*    | ov**er**, wat**er**, aft**er**, doct**or**, doll**ar**, pict**ur**e                           | `<er>, <or>, <ar>, <ur>` |
+| **`/ɜr/`**   | **`[ɝ]`**   | ər   |  *Stressed Schwar*  | p**er**son, t**ur**n, f**ir**st, g**ir**l, w**or**k, w**or**ld, **ear**th |   `<er>, <ur>, <ir>, <or>, <ear>,  <our>, <urr>`                                                        |
+
 
 
 ##### Diphthongs

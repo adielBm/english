@@ -6,16 +6,6 @@
 | will          | would           |
 | must          |            |
 
-## Semi modals
-- ought to 
-- need
-- dare 
-- have/has/had to
-- have got to. (only present)
-- had better 
-
-
-# Usage of specific verbs
 ## can / could
 - **Ability (present/past)** - subject can/could verb
 - **Possbility (present/past)** - It can/could verb 
@@ -36,19 +26,32 @@
 
 
 
-## have/has/had to
+# Semi modals
 
-### Present
-- subject **have/has to** verb
-- N - subject do/does not **have to** verb 
-- Q - Do/Does subject **have to** verb
+- ought to 
+- need
+- dare 
+- have to verb
+- have got ^[*Have got* mean the same like *have*. *Have got* is more informal] object
+- had better
+- *be* - *You **are** not to tell anyone*
 
-### Past
-- subject **had to** verb
-- N - subject did not **have to** verb
-- Q - Did subject **have to** verb
+## have to
+-  subject **have to** verb
+
+>The interrogative and negative of have to are formed most commonly with **auxiliary *do*** or, less commonly, in formal contexts, by subject-verb inversion.
+
+>***have got to*** is the same like ***have to***, but the interrogative and negative of that are formed by subject-verb inversion.
+
+## had better
+- subject **had better (not)** verb
+- **had** subject **better** verb
+- **had not** subject **better** verb
+
+>The same for ***had best***
 
 # form
+
 - subject + modal verb + verb
 - **Q** - modal verb + subject + verb
 
