@@ -51,24 +51,10 @@
 >The same for ***had best***
 
 # form
-
-- subject + modal verb + verb
-- **Q** - modal verb + subject + verb
-
-#### Present continuous
-- **modal verb** + be + verb-ing
-
-#### Present perfect
-- **modal verb** + have + V3
-
-#### Present perfect continuous
-- **modal verb** + have been + verb-ing
-
-#### Past Simple
-- could/would + verb
-
-#### Past continuous
-- could/would + be + verb-ing
-
-
+|             | Present                   | Past                    |
+| ----------- | ------------------------- | ----------------------- |
+| Simple      | **modal** verb          | could/would + verb       |
+| Progressive | **modal** be verb-ing | could/would + be + verb-ing |
+| Perfect     | **modal** have V3     |          |
+| Perfect Progressive            |  **modal** have been verb-ing                         |                         |
 

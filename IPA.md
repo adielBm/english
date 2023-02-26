@@ -12,7 +12,7 @@
 | **/ɑ/** | ä    | PALM             | bot  |          | b**o**d(y) | h**o**t  | c**o**p   | n**o**t, b**o**dy, w**a**nt, f**a**ther, st**o**p, g**o**t                           | `<o>, <wa>=/wɑ/, <qua>=/kwɑ/, <a>, <al>`                     |
 | **/ʌ/** | ə    | *Stressed Schwa* | but  |          | b**u**d    | h**u**t  | c**u**p   | **u**p, m**o**ther, b**u**ddy, m**u**d, r**u**n, **o**ther, s**o**me, f**u**n        | `<u>, <o>, <ou>`                                             |
 | **/ə/** | ə    | *Schwa*          |      | -f**u**l |            |          |           | **a**gain, **a**bout, t**o**day, list**e**n, stat**io**n, penc**i**l, prod**u**ct    | `<a>, <o>, <e>, <io>, <i>, <u>`                              |
-| **/ɔ/** | ô    | THOUGHT          |      | f**a**ll |            |          |           | **a**ll, **o**n, t**a**lk, l**o**st, s**aw**, d**au**ghter                           | `<o>, <al>, <au>, <aw>, <ough>`                              |
+| **/ɔ/** | ô    | THOUGHT          | b**ough**t     | f**a**ll |            |          |           | **a**ll, **o**n, t**a**lk, l**o**st, s**aw**, d**au**ghter                           | `<o>, <al>, <au>, <aw>, <ough>`                              |
 | **/ʊ/** | o͝o  | FOOT             |      | f**u**ll |            |          |           | g**oo**d, b**oo**k, p**u**t, w**ou**ld                                               | `<ook>=/ʊk/, <-oo->, <oul>, <o>, <ul, ull>=/ʊl/, <u>`        |
 | **/u/** | o͞o  | GOOSE            | boot | f**oo**l |            |          |           | tr**ue**, y**ou**, t**oo**, n**ew**                                                  | `<oo>, <u>, <u-e>, <o>, <o-e>, <ou>, <ui>, <ue>, <eu>, <ew>` |
 
@@ -95,6 +95,3 @@
 
 ---
 
-- https://www.internationalphoneticassociation.org/IPAcharts/IPA_chart_orig/pdfs/IPA_Kiel_2020_full.pdf
-- https://soundsamerican.net/
-- https://en.wikipedia.org/wiki/Lexical_set
