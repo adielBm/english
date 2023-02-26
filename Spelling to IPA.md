@@ -73,13 +73,20 @@
 | `<ew>`   | `/u/`  | blew, chew, crew   |                                           |
 
 
+## The `<ed>` ending
+
+| IPA    | Examples   | Notes                                     |
+| ------ | ---------- | ----------------------------------------- |
+| `/t/`  | walked, hoped, missed   | when it follows voiceless consonants |
+| `/d/`  | called, lived, tried | when it follows a voiced consonant or a vowel                                          |
+| `/ɪd/` | tested, added,            | when it follows the `/t/` or `/d/`                                         |
 
 # `<i>`
 
 | Spelling | IPA      | Examples         | Notes                                                                                         |
 | -------- | -------- | ---------------- | --------------------------------------------------------------------------------------------- |
 | `<i>`    | `/ɪ/`    | pink, hint       | closed stressed syllable                                                                      |
-|          | `/aɪ/`   | kink, mind       | when end with the '-ILD' and '-IND' letter combinations                                       |
+|          | `/aɪ/`   | kind, mind       | when end with the '-ILD' and '-IND' letter combinations                                       |
 | `<ie>`   | `/i/`    | piece, field     |                                                                                               |
 |          | `/aɪ/`   | die, lie, pie    | very exceptional                                                                              |
 |          | `/ɛ/`    | friend           | the only word                                                                                 |

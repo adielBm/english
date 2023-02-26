@@ -14,7 +14,7 @@ My English notebook 📜✏
 - Pronunciation 
   - [IPA (International Phonetic Alphabet)](../main/IPA.md)
   - [Spelling to IPA](../main/Spelling%20to%20IPA.md)
-  - [Minimal Paris](../main/Minimal%20Paris.md)
+  - [Minimal Pairs](../main/Minimal%20Pairs.md)
 - Vocabulary 
   - [Personal pronouns](../main/Personal%20pronouns.md)
 
