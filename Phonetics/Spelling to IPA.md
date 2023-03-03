@@ -1,23 +1,26 @@
 # `<a>`
 
-| Spelling | IPA    | Examples         | Notes                                                                                         |
-| -------- | ------ | ---------------- | --------------------------------------------------------------------------------------------- |
-| `<a>`    | `/æ/`  | cat, apple       | in closed stressed syllables                                                                  |
-|          | `/ə/`  | ago, about       | in unstressed syllable                                                                        |
-|          | `/eɪ/` | take, place      | in closed stressed syllables that end with a *silent 'E'*, `<Ce>, <ple>, <ble>, <dle>, <tle>` |
-|          |        | amen, chaos      | in open stressed syllables                                                                    |
-|          | `/ɑ/`  | want, palm       | `<al>, <ar>, <wa>`                                                                            |
-|          | `/ɔ/`  | all, also        | `<al>, <all>`                                                                                 |
-| `<ai>`   | `/eɪ/` | main, pain       | almost always                                                                                 |
-|          | `/ɛ/`  | said, again      | very exceptional                                                                              |
-|          | `/aɪ/` | chai, aisle      | very exceptional                                                                              |
-|          | `/æ/`  | plaid            | very exceptional                                                                              |
-| `<au>`   | `/ɔ/`  | taught, cause    | mostly                                                                                        |
-|          | `/æ/`  | laugh, aunt      | exceptional                                                                                   |
-|          | `/eɪ/` | gauge            | very exceptional                                                                              |
-|          | `/oʊ/` | chauffeur, mauve | very exceptional, from French                                                                 |
-| `<aw>`   | `/ɔ/`  | law, straw, draw, saw |                                                                                               |
-| `<ay>`   | `/eɪ/` | day, may, say    |                                                                                               |
+| Spelling | IPA    | Examples                  | Notes                                                                                         |
+| -------- | ------ | ------------------------- | --------------------------------------------------------------------------------------------- |
+| `<a>`    | `/æ/`  | cat, apple                | in closed stressed syllables                                                                  |
+|          | `/ə/`  | ago, about                | in unstressed syllable                                                                        |
+|          | `/eɪ/` | take, place               | in closed stressed syllables that end with a *silent 'E'*, `<Ce>, <ple>, <ble>, <dle>, <tle>` |
+|          |        | amen, chaos               | in open stressed syllables                                                                    |
+|          | `/ɑ/`  | want                      | `<ar>, <wa>`                                                                                  |
+|          | `/ɔ/`  | all, also                 | `<al>, <all>`                                                                                 |
+| `<ai>`   | `/eɪ/` | main, pain                | almost always                                                                                 |
+|          | `/ɛ/`  | said, again               | very exceptional                                                                              |
+|          | `/aɪ/` | chai, aisle               | very exceptional                                                                              |
+|          | `/æ/`  | plaid                     | very exceptional                                                                              |
+| `<au>`   | `/ɔ/`  | taught, cause             | mostly                                                                                        |
+|          | `/æ/`  | laugh, aunt               | exceptional                                                                                   |
+|          | `/eɪ/` | gauge                     | very exceptional                                                                              |
+|          | `/oʊ/` | chauffeur, mauve          | very exceptional, from French                                                                 |
+| `<aw>`   | `/ɔ/`  | law, straw, draw, saw     |                                                                                               |
+| `<ay>`   | `/eɪ/` | day, may, say             |                                                                                               |
+| `<al>`   | `/ɑ/`  | calm, palm, almond                     |                                                                                               |
+|          | `/ɔl/` | also, always, false, salt |                                                                                               |
+| `<all>`  | `/ɔl/` | all, fall, hall, tall     |                                                                                               |
 
 
 # `<o>`

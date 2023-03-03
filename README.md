@@ -12,9 +12,11 @@ My English notebook 📜✏
   - [Irregular verbs](../main/Irregular%20verbs.md)
   - [Modal verbs](../main/Modal%20verbs.md)
 - Pronunciation 
-  - [IPA (International Phonetic Alphabet)](../main/IPA.md)
-  - [Spelling to IPA](../main/Spelling%20to%20IPA.md)
-  - [Minimal Pairs](../main/Minimal%20Pairs.md)
+  - [IPA (International Phonetic Alphabet)](../main/Phonetics/IPA.md)
+  - [Spelling to IPA](../main/Phonetics/Spelling%20to%20IPA.md)
+  - [Minimal Pairs](../main/Phonetics/Minimal%20Pairs.md)
+  - [Allophones (todo) ](../main/Phonetics/Allophones.md)
+  - [Glossary](../main/Phonetics/Glossary.md)
 - Vocabulary 
   - [Personal pronouns](../main/Personal%20pronouns.md)
 
@@ -24,4 +26,5 @@ My English notebook 📜✏
 - Carley P. & Mees I. M. (2019). American english phonetics and pronunciation practice (First). Routledge.
 - https://www.internationalphoneticassociation.org/IPAcharts/IPA_chart_orig/pdfs/IPA_Kiel_2020_full.pdf
 - https://soundsamerican.net/
+- https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
 

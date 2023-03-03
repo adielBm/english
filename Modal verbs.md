@@ -58,3 +58,66 @@
 | Perfect     | **modal** have V3     |          |
 | Perfect Progressive            |  **modal** have been verb-ing                         |                         |
 
+
+
+
+
+
+
+
+
+# Semi modals
+
+### may
+
+- hope to 
+- intend to
+- long to
+- agree to
+- choose to
+- consent to
+- conspire to 
+- desire to 
+- expect to 
+- mean to 
+- offer to 
+- plan to 
+- propose to 
+- want to 
+- wish to
+- yearn to
+
+### wiil 
+
+- aim to 
+- aspire to
+- be going to 
+- commit to 
+- decide to 
+- promise to 
+- resolve to
+- swear to 
+- threaten to 
+- 
+
+## should
+
+- ought to
+- be supposed to
+
+### shall
+
+- be about to 
+
+### must 
+
+- have got to
+- have to 
+
+
+
+
+
+
+
+

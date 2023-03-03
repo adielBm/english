@@ -136,3 +136,19 @@ _yeah_, _ouch_, _Jesus_, _oh_, _mercy_, _yuck_, etc.
 
 
 ___
+
+
+# more terms 
+
+
+### mood (מודוס)
+
+- Subjunctive - תִּלּוּי
+- Declarative - דקלרטיבי
+- Indicative - חיווי, אינדיקטיבי
+- imperative - ציווי
+
+
+
+
+
