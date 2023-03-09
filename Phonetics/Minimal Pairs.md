@@ -65,18 +65,22 @@
 
 ### R-Colored vowels
 
-| **/aɪr/**    | **/ɪr/**    | **/ɛr/**          | **`/ər/ [ɚ]`** | **`/ɜr/ [ɝ]`**  | **/ɑr/** | **/ɔr/**  | **/ʊr/** |
-| ------------ | ----------- | ----------------- | -------------- | --------------- | -------- | --------- | -------- |
-|              |             |                   | Schwar         | Stressed Schwar |          |           |          |
-|              | ear         | air, heir         |                |                 | are      | or        |          |
-| hire         | hear, here  | her               |                |                 |          |           |          |
-|              | beer        | bear              |                | burr            | bar      | bore      | boor     |
-|              |             | care              |                | cur             | car      | core      | cour     |
-| dire         | dear        | dare              |                |                 |          | door      | dour     |
-| fire         | fear, fere  | fair              |                | fur             | far      | four, for |          |
-| wire, why're | weir, we're | where, wear, ware | were           |                 |          | war, wore |          |
-|              |             |                   |                | stir            | star     | store     |          |
-|              |             |                   |                |                 |          |           |          |
+| **/aɪr/**    | **/ɪr/**    | **/ɛr/**          | **`/ər/ [ɚ]`** | **`/ɜr/ [ɝ]`**  | **/ɑr/** | **/ɔr/**   | **/ʊr/** |
+| ------------ | ----------- | ----------------- | -------------- | --------------- | -------- | ---------- | -------- |
+|              |             |                   | Schwar         | Stressed Schwar |          |            |          |
+|              | ear         | air, heir         |                |                 | are      | or         |          |
+| hire         | hear, here  |                   |                | her             |          |            |          |
+|              | beer        | bear              |                | burr            | bar      | bore       | boor     |
+|              |             | care              |                | cur             | car      | core       | cour     |
+| dire         | dear        | dare              |                |                 |          | door       | dour     |
+| fire         | fear, fere  | fair              |                | fur             | far      | four, for  |          |
+|              | peer        | pare              |                | purr            | par      | pour, pore | poor     |
+|              |             |                   |                | stir            | star     | store      |          |
+| tire         | tear (cry)  | tear (*rip up*)   |                |                 | tar      | tore       | tour     |
+| wire, why're | weir, we're | where, wear, ware | were           |                 |          | war, wore  |          |
+| mire         | mere        | mare              |                |                 | mar      | more       | moor     |
+|              | leer        | lair              |                |                 |          | lore       | lure     |
+|              |             |                   |                |                 |          |            |          |
 
 
 

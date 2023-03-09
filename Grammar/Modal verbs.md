@@ -6,8 +6,6 @@
 | will          | would           |
 | must          |            |
 
-
-
 ## General formal properties of modal verbs
 
 - Modal verbs have only one form and do not inflect for person or number.
@@ -17,29 +15,7 @@
 - Modal verbs cannot be used as lexical verbs. (*~~I must to bed~~*)
 - Modal verbs can only stand alone when the lexical verb is understood. (*A: He might have a phone. B: Yes, he might.*)
 
-
-# Semi modals
-
-- ought to 
-
-- had better
-- *be* - *You **are** not to tell anyone*
-
-## have to
--  subject **have to** verb
-
->The interrogative and negative of have to are formed most commonly with **auxiliary *do*** or, less commonly, in formal contexts, by subject-verb inversion.
-
->***have got to*** is the same like ***have to***, but the interrogative and negative of that are formed by subject-verb inversion.
-
-## had better
-- subject **had better (not)** verb
-- **had** subject **better** verb
-- **had not** subject **better** verb
-
->The same for ***had best***
-
-# Form
+## Form
 | Tense               |                              |
 | ------------------- | ---------------------------- |
 | Simple              | **modal** verb               |
@@ -47,73 +23,8 @@
 | Perfect             | **modal** have V3            |
 | Perfect Progressive | **modal** have been verb-ing |
 
-Interrogatives: ***modal** subject verb*
-Negative form: *subject **modal not** verb* 
-
-# Semi modals
-
-Semi-modals can behave grammatically either like lexical verbs or like core modal verbs.
-
-- need
-- dare 
-
-### may
-
-- hope to 
-- intend to
-- long to
-- agree to
-- choose to
-- consent to
-- conspire to 
-- desire to 
-- expect to 
-- mean to 
-- offer to 
-- plan to 
-- propose to 
-- want to 
-- wish to
-- yearn to
-
-### will
-
-- aim to 
-- aspire to
-- be going to 
-- commit to 
-- decide to 
-- promise to 
-- resolve to
-- swear to 
-- threaten to 
-- 
-
-## should
-
-- ought to
-- be supposed to
-
-### shall
-
-- be about to 
-
-### must 
-
-- have got to
-- have to
-- have got ^[*Have got* mean the same like *have*. *Have got* is more informal] object
-
-#### Other modal expressions with *be*
-
-- be **supposed** to
-- be **about** to 
-- be **able** to
-- be **bound** to
-- be **due** to
-- be **likely** to/that
-- be **meant** to
-- be **obliged** to
+>Interrogatives: ***modal** subject verb*.
+>Negative form: *subject **modal not** verb* 
 
 # Usage 
 
@@ -150,6 +61,90 @@ Semi-modals can behave grammatically either like lexical verbs or like core moda
 **Can** refers to what the speaker believes to be a factor to be usually the case. **Could** and **may** refer to possible events.
 **Could** and **may** rather than **can** are used to speculate about whether something is true or possible.
 
+## Comparison between *could*, *may* and *might*
 
->COULD, MAY AND MIGHT **386**
+> TODO: **386** 
+
+# Semi modals
+
+Semi-modals can behave grammatically either like lexical verbs or like core modal verbs.
+
+- need
+- dare 
+
+# Modal Expressions
+
+### may
+
+- hope to 
+- intend to
+- long to
+- agree to
+- choose to
+- consent to
+- conspire to 
+- desire to 
+- expect to 
+- mean to 
+- offer to 
+- plan to 
+- propose to 
+- want to 
+- wish to
+- yearn to
+
+### will
+
+- aim to 
+- aspire to
+- commit to 
+- decide to 
+- promise to 
+- resolve to
+- swear to 
+- threaten to 
+
+## should
+
+- ought to
+- *be* to - (*You **are not to** tell anyone*)
+
+### must 
+- have to
+
+## Other modal expressions with *be*
+
+- be **supposed** to
+- be **about** to 
+- be **able** to
+- be **bound** to
+- be **due** to
+- be **likely** to/that
+- be **meant** to
+- be **obliged** to
+- be **going** to
+- be **best** to
+- be **better** to
+
+___
+
+#### have to
+- have got to
+- have to
+
+>The interrogative and negative of have to are formed most commonly with **auxiliary *do*** or, less commonly, in formal contexts, by subject-verb inversion.
+
+>***have got to*** is the same like ***have to***, but the interrogative and negative of that are formed by subject-verb inversion.
+
+have got object
+^[*Have got* mean the same like *have*. *Have got* is more informal]
+
+___
+
+#### had better
+- subject **had better (not)** verb
+- **had** subject **better** verb
+- **had not** subject **better** verb
+
+>The same for ***had best***
 
