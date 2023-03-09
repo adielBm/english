@@ -1,17 +1,18 @@
 
 
-| en         | he                   |                                                                                           |
-| ---------- | -------------------- | ----------------------------------------------------------------------------------------- |
-| phonology  | פונולגיה, תורת ההגה  |                                                                                           |
-| phonetics  | פונטיקה, תורת ההגייה |                                                                                           |
-| phoneme    | פונמה                |                                                                                           |
-| allophone  | אלופון               |                                                                                           |
-| phone      | הגה                  |                                                                                           |
-| syllable   | הברה                 |                                                                                           |
-| stress     | הטעמה                |                                                                                           |
-| Aspiration | מנושפות              |                                                                                           |
-| sonorant   | צוֹלֵל               | a speech sound that is produced with continuous, non-turbulent airflow in the vocal tract |
-|            |                      |                                                                                           |
+| en                 | he                   |                                                                                           |
+| ------------------ | -------------------- | ----------------------------------------------------------------------------------------- |
+| phonology          | פונולגיה, תורת ההגה  |                                                                                           |
+| phonetics          | פונטיקה, תורת ההגייה |                                                                                           |
+| phoneme            | פונמה                |                                                                                           |
+| allophone          | אלופון               |                                                                                           |
+| phone              | הגה                  |                                                                                           |
+| syllable           | הברה                 |                                                                                           |
+| stress             | הטעמה                |                                                                                           |
+| Aspiration         | מנושפות              |                                                                                           |
+| sonorant           | צוֹלֵל               | a speech sound that is produced with continuous, non-turbulent airflow in the vocal tract |
+| Syllabic consonant | עיצור הברתי          | `[◌̩]`                                                                                    |
+|                    |                      |                                                                                           |
 
 
 

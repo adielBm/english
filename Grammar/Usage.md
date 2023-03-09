@@ -21,9 +21,9 @@
 ## Present Perfect 
 - An ongoing action that **started in the past**, but has a **result in the present** - *They **have played** piano since the age of three*
   
-	Note that you can also use the present perfect continuous tense for this situation, as long as the action has not been completed yet (and it’s not a stative verb). The difference between the present perfect tense and the present perfect continuous tense, in this case, is emphasis: 
-	- The *present perfect* tense emphasizes the **effects** or **consequences** of the action. 
-	- The *present perfect continuous* tense emphasizes the **action itself** or the **length of time**.
+>Note that you can also use the present perfect continuous tense for this situation, as long as the action has not been completed yet (and it’s not a stative verb). The difference between the present perfect tense and the present perfect continuous tense, in this case, is emphasis: 
+>- The *present perfect* tense emphasizes the **effects** or **consequences** of the action. 
+>- The *present perfect continuous* tense emphasizes the **action itself** or the **length of time**.
   
 - **Unspecified time in the past** - *I **have visited** Paris many times*
 - An action that was completed very recently (just, now) - *Look! **I have cooked** dinner for us, It's ready now*

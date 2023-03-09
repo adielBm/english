@@ -6,7 +6,8 @@
 | Progressive | (**am/are/is) being** V3 | **(was/were) being** V3 | **will be being** V3   |
 |      Perfect	| 	**(have/has) been** V3	| 	**had been** V3	| **will have been** V3                |
 
->*be*-passive can be used for adjectives instead V3 
+>*be*-passive can be used for adjectives instead V3.
+>The *perfect progressive* form is also grammatically correct, but very rare
 
 ### *get*-passive
 
@@ -20,15 +21,16 @@
 >Get-passives occur more frequently with no agent phrase than be-passives:
 
 
-###  pseudo-passives with *have*
+###  Pseudo-Passives with *have*
 
 - subject (have/has/had) object V3
 - Q - (do/does/did) subject (have/has/had) object V3
 
-___
-- The *perfect progressive* form is also grammatically correct, but very rare
+
+
 
 ___
+
 > It is thought to be ...
 > subject **thought to be** ...
 > There is **thought to be** ...
