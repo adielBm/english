@@ -51,10 +51,3 @@
 ## Past Perfect
 
 - Event that took place before another event in the past - *The train **had left** before we **arrived** (past simple) at the station*
-
-
-# Futrue 
-
-Futrue simple 
-
--  

@@ -80,6 +80,7 @@
 | wire, why're | weir, we're | where, wear, ware | were           |                 |          | war, wore  |          |
 | mire         | mere        | mare              |                |                 | mar      | more       | moor     |
 |              | leer        | lair              |                |                 |          | lore       | lure     |
+|              | beard       |                   |                | bird            | bard     | board      |          |
 |              |             |                   |                |                 |          |            |          |
 
 

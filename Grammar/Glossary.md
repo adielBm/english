@@ -99,11 +99,10 @@ participle - בינוני
 | infinitive                           | שם הפועל            |     |
 
 
-
-| direct object | מושא ישיר |  |
-| indirect object | מושא עקיף |  |
-
-
+|                 |           | 
+| --------------- | --------- |
+| direct object   | מושא ישיר |   
+| indirect object | מושא עקיף |    
 
 # Noun
 
@@ -132,14 +131,8 @@ ___
 _yeah_, _ouch_, _Jesus_, _oh_, _mercy_, _yuck_, etc.
 
 
-
-
-
 ___
-
-
-# more terms 
-
+# other terms 
 
 ### mood (מודוס)
 
@@ -147,8 +140,5 @@ ___
 - Declarative - דקלרטיבי
 - Indicative - חיווי, אינדיקטיבי
 - imperative - ציווי
-
-
-
 
 
