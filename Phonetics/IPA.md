@@ -35,8 +35,6 @@
 | **`/ər/`** | **`[ɚ]`** | ər   | *Schwar*    | ov**er**, wat**er**, aft**er**, doct**or**, doll**ar**, pict**ur**e                           | `<er>, <or>, <ar>, <ur>` |
 | **`/ɜr/`**   | **`[ɝ]`**   | ər   |  *Stressed Schwar*  | p**er**son, t**ur**n, f**ir**st, g**ir**l, w**or**k, w**or**ld, **ear**th |   `<er>, <ur>, <ir>, <or>, <ear>,  <our>, <urr>`                                                        |
 
-
-
 ##### Diphthongs
 | IPA       | NOAD  |                                                          |
 | --------- |:----- | -------------------------------------------------------- |

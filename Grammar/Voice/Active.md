@@ -19,7 +19,6 @@
 - subject **have/has (not) been** verb-ing 
 - Q - **have/has** subject **(not) been** verb-ing 
 
-
 # Past
 
 ## Past simple
@@ -47,7 +46,7 @@
 | Asspect \ Tense     | Present                      | Past                  |
 | ------------------- | ---------------------------- | --------------------- |
 | Simple              | **(do)** verb(s)                 | **(did)** V2/verb              |
-| Progressive         | **am/are/is** verb-ing     | **was/were** verb     |
+| Progressive         | **am/are/is** verb-ing     | **was/were** verb-ing     |
 | Perfect             | **have/has** V3            | **had** V3            |
 | Perfect Progressive | **have/has been** verb-ing | **had been** verb-ing |
 
