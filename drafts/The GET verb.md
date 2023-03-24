@@ -6,7 +6,7 @@
 - `get [recipient] a [object]` - Can I **get you a drink**?
 
 ### (get-passive)
-- `get [v3]` - This window got broken
+- `get [v3]` - This window **got broken**
 
 ### become
 - `get [adj]` - Your coffee is **getting cold**
@@ -25,13 +25,13 @@
 - `get [object] (to/into) a [place]` - my honesty often **gets me into trouble**
 
 ## catch
-- `get [object]` - the police get him
+- `get [object]` - the police **get him**
 
 ## deal with 
-- `get [object]` - Someone's at the door - would you **get** it, please?
+- `get [object]` - Someone's at the door - would you **get it** , please?
 
 ## understand
-- `get [object]` - I told that joke to Sophia, but she didn't **get** it.
+- `get [object]` - I told that joke to Sophia, but she didn't **get it** .
 
 ## have chance
 - `get [to infinitive]` - I never **get to see** her now that she works somewhere else.
@@ -49,6 +49,8 @@ ___
 - get **off lightly** – to experience less trouble than expected
 - get **through to** (someone) – successfully explain something
 - get **wound up** (about something) –  get angry about something
+- get **to** - to arrive
+
 
 # Informal usage 
 
