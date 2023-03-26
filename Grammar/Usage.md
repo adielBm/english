@@ -9,6 +9,8 @@
 - **arranged future event** - *The train **arrives** at 10pm tonight*
 - **condition** - *We will report as soon as we **receive** any information*
 - **zero conditional** - *Ice **melts** if you heat it*
+- **News Headlines** of past events - *Prime minister **says** traffic must be curbed* 
+- History - *1945: the war in Europe comes to an end*
 
 ## Present Progressive
 
@@ -51,3 +53,7 @@
 ## Past Perfect
 
 - Event that took place before another event in the past - *The train **had left** before we **arrived** (past simple) at the station*
+- Reported clauses - *He saw that she **had been** able to cure herself.*
+- References to changed states - I **had planned** to work till I was sixty but I can’t any more.
+- Hypothetical conditional clause - *If I **had left** earlier, I would have caught the train*
+

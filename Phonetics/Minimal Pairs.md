@@ -35,6 +35,9 @@
 | bee        |           |           |           |           |            |            |           | boo       | beau, bow   | bough      | bay        | buy, bye, by | boy        |
 |            |           |           |           |           |            |            |           |           | though      | thou       | they       |              |            |
 | seek       | sick      |           | sack      | suck      | sock       |            |           | sook      | soak        |            | sake       | sike         |            |
+|            |           |           |           |           |            |            |           |           | dough       |            | day        | die          |            |
+|            |           |           |           |           | dot        |            |           |           |             | dought     | date       |              |            |
+|            |           |           |           |           |            |            |           |           |             |            |            |              |            |
 
 
 ### R-Colored vowels
