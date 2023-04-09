@@ -1,26 +1,62 @@
 | Mono.      |           |           |           |           |            |            |           |           | Diph.       |            |            |              |            |
 | ---------- | --------- | --------- | --------- | --------- | ---------- | ---------- | --------- | --------- | ----------- | ---------- | ---------- | ------------ | ---------- |
 | **`/i/`**  | **`/ɪ/`** | **`/ɛ/`** | **`/æ/`** | **`/ʌ/`** | **`/ɑ/`**  | **`/ɔ/`**  | **`/ʊ/`** | **`/u/`** | **`/oʊ/`**  | **`/aʊ/`** | **`/eɪ/`** | **`/aɪ/`**   | **`/ɔɪ/`** |
-|            |           |           | add       |           | odd        | awed       |           |           |             |            |            |              |            |
-| eat        | it        |           | at        |           |            | ought      |           |           | oat         | out        | eight, ate |              |            |
 | bead       | bid       | bed       | bad       | bud       | bod(y)     |            |           |           |             |            |            |              |            |
-| beat       | bit       | bet       | bat       | but       | bot        | bought     |           | boot      | boat        | bout       | bait, bate | bite, byte   |            |
-| peat       | pit       | pet       | pat       | putt      | pot        |            | put       | poot      |             |            |            |              |            |
-| feet, feat | fit       |           | phat      | phut      |            |            | foot      |           |             |            |            |              |            |
 |            |           |           | cap       | cup       | cop        |            |           |           |             |            |            |              |            |
-|            | kit       |           | cat       | cut       | cot        | caught     |           |           | coat        |            |            | kite         |            |
 |            |           |           |           | c**o**lor | c**o**llar | c**a**ller |           |           |             |            |            |              |            |
-| heat       | hit       |           | hat       | hut       | hot        |            |           |           |             |            | hate       | height       |            |
 |            |           |           |           | stuck     | stock      | stalk      |           |           |             |            |            |              |            |
-|            |           |           |           | nut       | not        | nought     |           |           |             |            |            |              |            |
 |            |           |           |           | luck      | lock       |            |           |           |             |            |            |              |            |
 | sleep      | slip      |           |           |           |            |            |           |           |             |            |            |              |            |
-|            |           | went      |           |           | want       |            |           |           | won't, wont |            |            |              |            |
 | wean       | win       | when      |           | won, one  | wan        |            |           |           |             |            |            |              |            |
 | mean       | min       | men       | man       |           |            |            |           | moon      | moan        |            | main       | mine         |            |
 | sheep      | ship      |           |           |           | shop       |            |           |           |             |            |            |              |            |
 | peep       | pip       | pep       | pap       | pup       | pop        | paup(er)   |           |           |             |            |            |              |            |
-|            |           | get       |           |           | got        |            |           |           | goat        | gout       | gate       |              |            |
+| bean       | bin       |           | ban       | bun       |            |            |           | boon      |             |            |            |              |            |
+|            |           |           |           |           |            |            |           |           | though      | thou       | they       |              |            |
+| seek       | sick      |           | sack      | suck      | sock       |            |           | sook      | soak        |            | sake       | sike         |            |
+|            |           |           |           |           |            |            |           |           | dough       |            | day        | die          |            |
+
+
+###  `<vc>`
+
+| Mono.      |           |           |           |           |            |            |           |           | Diph.       |            |            |              |            |
+| ---------- | --------- | --------- | --------- | --------- | ---------- | ---------- | --------- | --------- | ----------- | ---------- | ---------- | ------------ | ---------- |
+| **`/i/`**  | **`/ɪ/`** | **`/ɛ/`** | **`/æ/`** | **`/ʌ/`** | **`/ɑ/`**  | **`/ɔ/`**  | **`/ʊ/`** | **`/u/`** | **`/oʊ/`**  | **`/aʊ/`** | **`/eɪ/`** | **`/aɪ/`**   | **`/ɔɪ/`** |
+|            |           |           | add       |           | odd        | awed       |           |           |             |            |            |              |            |
+
+
+
+###  `<cv>`
+
+| Mono.      |           |           |           |           |            |            |           |           | Diph.       |            |            |              |            |
+| ---------- | --------- | --------- | --------- | --------- | ---------- | ---------- | --------- | --------- | ----------- | ---------- | ---------- | ------------ | ---------- |
+| **`/i/`**  | **`/ɪ/`** | **`/ɛ/`** | **`/æ/`** | **`/ʌ/`** | **`/ɑ/`**  | **`/ɔ/`**  | **`/ʊ/`** | **`/u/`** | **`/oʊ/`**  | **`/aʊ/`** | **`/eɪ/`** | **`/aɪ/`**   | **`/ɔɪ/`** |
+| bee        |           |           |           |           |            |            |           | boo       | beau, bow   | bough      | bay        | buy, bye, by | boy        |
+
+
+
+### `<cvT>`
+
+| Mono.      |           |           |           |           |           |           |           |           | Diph.       |            |            |            |            |
+| ---------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | ----------- | ---------- | ---------- | ---------- | ---------- |
+| **`/i/`**  | **`/ɪ/`** | **`/ɛ/`** | **`/æ/`** | **`/ʌ/`** | **`/ɑ/`** | **`/ɔ/`** | **`/ʊ/`** | **`/u/`** | **`/oʊ/`**  | **`/aʊ/`** | **`/eɪ/`** | **`/aɪ/`** | **`/ɔɪ/`** |
+| eat        | it        |           | at        |           |           | ought     |           |           | oat         | out        | eight, ate |            |            |
+| beat       | bit       | bet       | bat       | but       | bot       | bought    |           | boot      | boat        | bout       | bait, bate | bite, byte |            |
+|            | kit       |           | cat       | cut       | cot       | caught    |           |           | coat        |            |            | kite       |            |
+|            |           |           |           |           | dot       |           |           |           |             | dought     | date       |            |            |
+| feet, feat | fit       |           | phat      | phut      |           |           | foot      |           |             |            |            |            |            |
+|            |           | get       |           |           | got       |           |           |           | goat        | gout       | gate       |            |            |
+| heat       | hit       |           | hat       | hut       | hot       |           |           |           |             |            | hate       | height     |            |
+|            |           |           |           | nut       | not       | nought    |           |           |             |            |            |            |            |
+| peat       | pit       | pet       | pat       | putt      | pot       |           | put       | poot      |             |            |            |            |            |
+| seat       | sit       | set, sett | sat       |           | sot       | sought    | soot      |           |             |            |            | cite       |            |
+|            |           | went      |           |           | want      |           |           |           | won't, wont |            |            |            |            |
+
+### `<cvL>`
+
+| Mono.      |           |           |           |           |           |           |           |           | Diph.       |            |            |            |            |
+| ---------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | ----------- | ---------- | ---------- | ---------- | ---------- |
+| **`/i/`**  | **`/ɪ/`** | **`/ɛ/`** | **`/æ/`** | **`/ʌ/`** | **`/ɑ/`** | **`/ɔ/`** | **`/ʊ/`** | **`/u/`** | **`/oʊ/`**  | **`/aʊ/`** | **`/eɪ/`** | **`/aɪ/`** | **`/ɔɪ/`** |
 | feel       | fill      | fell      |           |           |            | fall       | full      | fool      | foal        | foul       | fail       | file         | foil       |
 | heal       | hill      | hell      |           | hull      |            | hall, haul |           |           | hole, whole |            | hail       |              |            |
 | keel       | kill      |           |           | cull      | col        | call, caul |           | cool      |             |            |            |              |            |
@@ -29,18 +65,20 @@
 |            | bill      | bell      |           |           |            | ball, bawl | bull      |           | bole        |            | bail       | bile         | boil       |
 | wheel      | will      | well      |           |           |            | wall       | wool      |           |             |            | wail       | while        |            |
 | meal       | mil, mill | mell      |           | mull      |            | mall, maul |           | mool      |             |            | mail       | mile         | moil       |
-| bean       | bin       |           | ban       | bun       |            |            |           | boon      |             |            |            |              |            |
 | she'll     | shill     | shell     | shall     |           |            |            |           | shul      |             |            |            |              |            |
-| seat       | sit       | set, sett | sat       |           | sot        | sought     | soot      |           |             |            |            | cite         |            |
-| bee        |           |           |           |           |            |            |           | boo       | beau, bow   | bough      | bay        | buy, bye, by | boy        |
-|            |           |           |           |           |            |            |           |           | though      | thou       | they       |              |            |
-| seek       | sick      |           | sack      | suck      | sock       |            |           | sook      | soak        |            | sake       | sike         |            |
-|            |           |           |           |           |            |            |           |           | dough       |            | day        | die          |            |
-|            |           |           |           |           | dot        |            |           |           |             | dought     | date       |              |            |
-|            |           |           |           |           |            |            |           |           |             |            |            |              |            |
 
 
-### R-Colored vowels
+
+
+
+
+
+
+
+
+
+
+# R-Colored vowels
 | **/aɪr/**    | **/ɪr/**    | **/ɛr/**          | **`/ər/ [ɚ]`** | **`/ɜr/ [ɝ]`**  | **/ɑr/** | **/ɔr/**   | **/ʊr/** |
 | ------------ | ----------- | ----------------- | -------------- | --------------- | -------- | ---------- | -------- |
 |              |             |                   | Schwar         | Stressed Schwar |          |            |          |

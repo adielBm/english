@@ -30,12 +30,13 @@
 
 # `<o>`
 
-| Spelling | IPA     | Examples                            | Notes                    |
-| -------- | ------- | ----------------------------------- | ------------------------ |
-| `<o>`    | `/ɑ/`   | hot, not                            |                          |
-|          | `/oʊ/`  | cold, from, hope                    |                          |
-|          | `/ɔ/`   | dog, off                            |                          |
-|          | `/ʌ/`   | come, love                          |                          |
+| Spelling | IPA    | Examples                   | Notes |
+| -------- | ------ | -------------------------- | ----- |
+| `<o>`    | `/ɑ/`  | hot, not, stop             |       |
+|          | `/oʊ/` | cold, from, hope, won’t    |       |
+|          | `/ɔ/`  | dog, off, loss             |       |
+|          | `/ʌ/`  | come, love, color, nothing |       |
+|          |  `/ə/`      | person, today, second, reason                            |       |
 | `<oo>`   | `/u/`   | fool, too                           |                          |
 |          | `/ʊ/`   | good, wood                          |                          |
 |          | `/ʌ/`   | blood, flood                        | very exceptional         |
@@ -95,15 +96,16 @@
 
 # `<i>`
 
-| Spelling | IPA    | Examples                          | Notes                                                   |
-| -------- | ------ | --------------------------------- | ------------------------------------------------------- |
-| `<i>`    | `/ɪ/`  | pink, hint                        | closed stressed syllable                                |
-|          | `/aɪ/` | kind, mind                        | when end with the '-ILD' and '-IND' letter combinations |
-|          | `/i/`  | machine, police, prestige, unique | very exceptional                                        |
-| `<ie>`   | `/i/`  | piece, field                      |                                                         |
-|          | `/aɪ/` | die, lie, pie                     | very exceptional                                        |
-|          | `/ɛ/`  | friend                            | the only word                                           |
-|          | `/ə/`  | ancient                           | very exceptional                                        |
+| Spelling | IPA    | Examples                     | Notes                                      |
+| -------- | ------ | ---------------------------- | ------------------------------------------ |
+| `<i>`    | `/ɪ/`  | pink, hint                   | closed stressed syllable                   |
+|          | `/aɪ/` | kind, mind, bind, find, wind | ends with the `<-ind>` letter combinations |
+|          |        | side, time, wise             | `<i-e>`    *silent 'E'*                    |
+|          | `/i/`  | machine, police, prestige, unique | very exceptional                                            |
+| `<ie>`   | `/i/`  | piece, field                      |                                                             |
+|          | `/aɪ/` | die, lie, pie                     | very exceptional                                            |
+|          | `/ɛ/`  | friend                            | the only word                                               |
+|          | `/ə/`  | ancient                           | very exceptional                                            |
 
 
 # `<u>`
@@ -133,5 +135,11 @@
 
 ___
 
-- The letter 'W' is always pronounced as /w/ when it occurs at the beginning of a syllable and before a vowel: well, water, will.
-- The letter 'H' is not pronounced when it comes after a 'W' and before a vowel (except 'O'): when, why, what.
+## Consonant 
+
+- `<w>` is always pronounced as `/w/` when it occurs at the beginning of a syllable and before a vowel: well, water, will.
+- `<h>` is silent after `<w>` and before `/a/` vowel (except 'O'): when, why, what.
+- `<b>` is silent after `<m>` (bomb, climb, comb, crumb, dumb, lamb, limb, numb, plumb, thumb, tomb)
+- `<t>` is pronounce as `//`
+
+https://www.merriam-webster.com/words-at-play/mums-the-letter-when-letters-dont-say-a-thing

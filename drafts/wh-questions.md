@@ -6,18 +6,38 @@
 # what 
 
 ### *what* as pronoun
+
+Which thing, event, circumstance, etc.: used in asking for the specification of an identity, quantity, quality, etc.
+
 - Affirmative: *You want to talk about trips*
 - Interrogatives:  `what [aux] [subject] (verb) (preposition) (adverb)` 
    - *What do you want to talk about today?*
-   - 
+   - What does it cost?
+   - What is your name?
 
-### *what* as adjective
-- Affirmative: *The lion eats meat*
-- Interrogatives: `what [object] [aux] [subject] [verb]` - *What food does the lion eat?*
+### *what* as adverb
+In what way; to what extent.
+
+- _**What** does it matter?_
+- _**What** do you care?_
+
+
+### *what* as determiner
+
+like *which*, especially which of an open-ended set of possibilities.
+
+- Affirmative: `[subject] [verb] [object-type]` *The lion eats meat*
+- Interrogatives: `what [object] [aux] [subject] (verb) (preposition) (adverb)` - *What food does the lion eat?*
+	- What time is it?
+	- What color are you going to use?
+
+>In cases where both "what" and "which" are possible, with similar meaning, "what" is preferred for open-ended choices, while "which" is preferred for choices from a closed group or set. For example, "Which one of these do you want?" not "What one of these do you want?".
 
 # which
 
 ### *what* as pronoun
+??
+### *what* as determiner
 
 *Which of those houses do you live in*
 
