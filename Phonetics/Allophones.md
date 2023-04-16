@@ -39,23 +39,84 @@
 
 
 
-## Voiceless Alveolar `/t/`
+# Voiceless Alveolar `/t/`
 
-|                      |                                                                                 | ex                                                            |
-| -------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| `[t]`                | unaspirated after /s/ in a syllable-initial cluster                            | to, tell, try, put, not                                       |
-| `[tʰ]`               | aspirated (but with weaker aspiration in unstressed syllables)                  | top                                                           |
-| `[ɾ]` *Alveolar tap* | Alveolar tap `[ɾ]` before unstressed vowel & syllable in North American English | bu**tt**er, bo**tt**le, la**tt**er, na**t**ive, ma**tt**er    |
-| `[ʔ]`                | Glottal stop before `/n, l/`                                                    | ea**t**en, co**tt**on, cer**t**ain, bu**tt**on, impor**t**ant |
-| `[ʔt]`               | glottal replacement in syllable final position before a consonant or silence   |                                                               |
-| `[t̬]`               | voiced flap as an alternative between vowels                                    | water, city, little, beauty, matter, but I                                   |
-| `[t̚]`               | unreleased in syllable-final position before a consonant                        | foot, what                                                    |
-| `[t̪]`               | dental before dental consonants                                                 |                                                               |
-|                      | retracted before `/r/`                                                          |                                                               |
-|                      |                                                                                 |                                                               |
+https://www.quickanddirtytips.com/articles/all-the-different-ways-we-pronounce-the-letter-t/
 
-ENGLISH ASPIRATION
-https://www.youtube.com/watch?v=6PSdlctYBsw
+
+### Unaspirated `[t]` 
+
+- unaspirated after `/s/` in a syllable-initial cluster
+- stack
+
+
+### Unreleased `[t̚]` 
+- what do - `[what̚ do]`
+
+
+### Aspirated `[tʰ]` 
+
+- aspirated (but with weaker aspiration in unstressed syllables)
+- top
+
+### Glottal stop `[ʔ]` 
+
+- Glottal stop before `/n, l/`
+
+|           | IPA              |                 |
+| --------- | ---------------- | --------------- |
+| eaten     | `/ˈiːt(ə)n/`     | `[ˈiːʔn̩]`      |
+| cotton    | `/ˈkɑt.ən/`      | `[ˈkɑʔn̩]`      |
+| certain   | `/ˈsɜrtn/`       | `[ˈsɝʔn̩]`      |
+| button    |                  |                 |
+| importent | `/ɪm.ˈpɔɹ.tənt/` | `[ɪmˈpʰɔɹʔn̩t]` |
+| gotten    | `/ˈɡɑtn̩/`       | `[ˈɡɑʔn̩]`      |
+
+###  Alveolar flap (tap) `[ɾ]`
+
+- between a stressed syllable and an unstressed syllable (a**t**om, smar**t**er, bu**tt**er, bo**tt**le, la**tt**er, na**t**ive, ma**tt**er)
+- between two unstressed syllables (pocke**t**ed)
+- Turns pairs of words such as into homophones of `/t/` and `/d/`
+|        |        | s          |
+| ------ | ------ | ---------- |
+| atom   | Adam   | `[ˈæɾəm]`  |
+| batter | badder |            |
+| bitter | bidder |            |
+| mettle | medal  |            |
+| liter  | leader | `[ˈliːɾɚ]` |
+| catty  | caddy  | `[ˈkʰæɾi]` |
+|        |        |            |
+
+
+
+### Affricated `[tʃ]`
+
+### Dental `[t̪]` 
+
+### Nasal Alveolar Flap `[ɾ̃]`
+
+
+
+
+
+
+|                      |                                                                              | ex                                                            |
+| -------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| `[t]`                | unaspirated after /s/ in a syllable-initial cluster                          | to, tell, try, put, not                                       |
+| `[tʰ]`               | aspirated (but with weaker aspiration in unstressed syllables)               | top                                                           |
+| `[ɾ]` *Alveolar tap* | between a stressed syllable and an unstressed syllable                       | bitter=bidder, d atom, smarter,  bu**tt**er, bo**tt**le, la**tt**er, na**t**ive, ma**tt**er    |
+|                      | between two unstressed syllables                                             |                                                               |
+|                      |                                                                              |                                                               |
+| `[ʔ]`                | Glottal stop before `/n, l/`                                                 | ea**t**en, co**tt**on, cer**t**ain, bu**tt**on, impor**t**ant |
+| `[ʔt]`               | glottal replacement in syllable final position before a consonant or silence |                                                               |
+| `[t̬]`               | voiced flap as an alternative between vowels                                 | water, city, little, beauty, matter, but I                    |
+| `[t̚]`               | unreleased in syllable-final position before a consonant                     | foot, what                                                    |
+| `[t̪]`               | dental before dental consonants                                              |                                                               |
+|                      | retracted before `/r/`                                                       |                                                               |
+|                      |                                                                              |                                                               |
+
+
+
 
 
 

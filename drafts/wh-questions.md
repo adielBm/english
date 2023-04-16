@@ -75,3 +75,37 @@ indirect questions
 `when [aux] [subject] [verb] (object) (prepostion)`
 - when can I see you?
 - When will this film end?
+
+
+# Who
+
+`who [aux] [subject] (verb) (object) (prepostion)`
+
+
+Who does this place belong to?
+Who do you want to talk to?
+`Who [aux] [subject] [verb] [prepostion]?`
+
+Who did it?
+`Who [aux] [subject]?
+`
+
+Who does she think she is?
+`Who [aux] [subject] [verb] ?
+`
+Who was that guy I saw you with last night?
+
+
+
+Leo ate my sandwich.
+Who ate my sandwich?  (who = subject)
+What did Leo eat? (what = direct object)
+
+
+Daniel saw Joe. 
+Who saw Joe? (who = subject)
+Who did Daniel see? (who = direct object)
+
+
+
+Who did Leslie give the tickets to? (who = indirect object)
