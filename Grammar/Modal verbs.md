@@ -183,23 +183,24 @@ Shall is also used to issue directives but this use is very formal and rare: _(n
 
 ___
 
-#### have to
-- have got to
-- have to
+#### have to (obligation)
+
+- have to $\ce{VP}$ 
+- *(informal)* have got to $\ce{VP}$ 
+- *(very informal)* got to $\ce{VP}$
 
 >The interrogative and negative of have to are formed most commonly with **auxiliary *do*** or, less commonly, in formal contexts, by subject-verb inversion.
 
 >***have got to*** is the same like ***have to***, but the interrogative and negative of that are formed by subject-verb inversion.
 
-have got object
-^[*Have got* mean the same like *have*. *Have got* is more informal]
+>see more in [[The HAVE verb]]
 
 ___
 
 #### had better
-- subject **had better (not)** verb
-- **had** subject **better** verb
-- **had not** subject **better** verb
+- subject **had better (not)** VP
+- **had** subject **better** VP
+- **had not** subject **better** VP
 
 >The same for ***had best***
 

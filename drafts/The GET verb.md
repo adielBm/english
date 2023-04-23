@@ -1,20 +1,34 @@
-### recive, obtain
+## recive, obtain
 - `get [object]` - Where did you **get your shoes** from?
 
-### bring
+## bring
 - `get [object]` - Let me go **get my glasses**
 - `get [recipient] a [object]` - Can I **get you a drink**?
 
-### (get-passive)
-- `get [v3]` - This window **got broken**
-
-### become
+## become
 - `get [adj]` - Your coffee is **getting cold**
 
+## (get-passive)
+- `get [v3]` - This window **got broken**
+
 ## cause 
-- `get [object] [adj]` - She had to **get the kids ready** for school
-- `get [object] [v3]` - I'm trying to **get this article finished** by Thursday
-- `get [object] [to infinitive]` - I can’t **get this printer to work**!
+- `get [NP] [Adj]` - She had to **get the kids ready** for school
+- `get [NP] [V3]` - I'm trying to **get this article finished** by Thursday
+- `get [NP] to [Verb]` - I can't **get this printer to work**!
+
+|                       | Present                           | Past                             | Modal                          |
+| --------------------- | --------------------------------- | -------------------------------- | ------------------------------ |
+| base form             | **get(s)** object to verb         | **got** object to verb           | **(modal) get** object to verb |
+| V3 form (simple)      | **get(s)** object V3              | **got** object V3                | **(modal) get** object V3      |
+| V3 form (Progressive) | (**am/are/is) getting** object V3 | **(was/were) getting** object V3 |                                |
+
+- I will get the doctor to give you a medicine.
+
+####  *get*-pseudo-passives
+-  `get [object] [V3]` - 
+
+> Causative: *"They got their house built"* is like *"They build their house"*
+> Non-Causative: *They got their bike stolen today.* = *Their bike got stolen today*
 
 ## prepare
 - `get [object]` - I'll do the main course, if you **get the salad**

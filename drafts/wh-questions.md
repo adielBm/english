@@ -106,6 +106,4 @@ Daniel saw Joe.
 Who saw Joe? (who = subject)
 Who did Daniel see? (who = direct object)
 
-
-
 Who did Leslie give the tickets to? (who = indirect object)

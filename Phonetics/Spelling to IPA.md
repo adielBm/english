@@ -1,4 +1,6 @@
-# `<a>`
+# Vowels 
+
+## `<a>`
 
 | Spelling | IPA    | Examples                                         | Notes                                                                                         |
 | -------- | ------ | ------------------------------------------------ | --------------------------------------------------------------------------------------------- |
@@ -27,7 +29,7 @@
 |          | `/æf/` | laugh, draught                                   |                                                                                               |
 |          |        |                                                  |                                                                                               |
 
-# `<o>`
+## `<o>`
 
 | Spelling | IPA     | Examples                                            | Notes                    |
 | -------- | ------- | --------------------------------------------------- | ------------------------ |
@@ -70,7 +72,7 @@
 |          | `/aʊ/`  | bough, doughty, drought, plough                     |                          |
 |          |         |                                                     |                          |
 
-# `<e>`
+## `<e>`
 
 | Spelling | IPA    | Examples           | Notes                                     |
 | -------- | ------ | ------------------ | ----------------------------------------- |
@@ -87,7 +89,7 @@
 |          | `/i/`  | key, money, honey  |                                           |
 | `<ew>`   | `/u/`  | blew, chew, crew   |                                           |
 
-## The `<ed>` ending
+### The `<ed>` ending
 
 | IPA    | Examples   | Notes                                     |
 | ------ | ---------- | ----------------------------------------- |
@@ -95,7 +97,7 @@
 | `/d/`  | called, lived, tried | when it follows a voiced consonant or a vowel                                          |
 | `/ɪd/` | tested, added,            | when it follows the `/t/` or `/d/`                                         |
 
-# `<i>`
+## `<i>`
 
 | Spelling | IPA    | Examples                          | Notes                                      |
 | -------- | ------ | --------------------------------- | ------------------------------------------ |
@@ -110,8 +112,7 @@
 | `<igh>`  | `/aɪ/` | high, thigh, sigh, high, sight, light, bright, night, fight                      |                                            |
 |          |        |                                   |                                            |
 
-
-# `<u>`
+## `<u>`
 
 | Spelling | IPA      | Examples                  | Notes                           |
 | -------- | -------- | ------------------------- | ------------------------------- |
@@ -134,10 +135,7 @@
 |          | `/ju/`   | argue, value, venue       |                                 |
 |          |          |                           |                                 |
 
-
-___
-
-## Consonant 
+# Consonant 
 
 - `<w>` is always pronounced as `/w/` when it occurs at the beginning of a syllable and before a vowel: well, water, will.
 - `<h>` is silent after `<w>` and before `/a/` vowel (except 'O'): when, why, what.
@@ -150,9 +148,12 @@ ___
 		- `/g/` - ghetto `/ˈgɛtoʊ/`, ghost `/goʊst/`, and spaghetti `/spəˈgɛti/`
 		- see `<igh>`
 		- see `<ough>`
+- `<tr>` becomes almost to `/tʃr/` *(travel, tradition, translate, traffic, turn, turkey, introduce, interest, extremely, terrific)*
+- `<dr>` becomes almost to `/dʒr/` (*drink, drop, dream, drama, syndrome, children, address, cathedral, hundred, laundry*)
+- `<du>` becomes almost to `/dʒ/` (*gradual, education, schedule, procedure, graduation, individual*)
+- `<dy>` becomes almost to `/dʒ/` (*did you, could you, would you, should you*)
 
-
-### `<c>` 
+## `<c>` 
 
 | IPA   | Examples          | Notes                        |
 | ----- | ----------------- | ---------------------------- |
@@ -163,9 +164,8 @@ ___
 | `/ʃ/` | delicious, sufficient, special | before suffixes that start with `<i>` |
 
 -  grocery can be `/ˈɡɹoʊs(ə)ɹi/`  or  `/ˈɡɹoʊʃ(ə)ɹi/`
-- 
 
-### `<th>`
+## `<th>`
 
 | IPA   | Examples               | Notes                              |
 | ----- | ---------------------- | ---------------------------------- |
@@ -176,7 +176,19 @@ ___
 
 - excaptions: clothes `/kloʊz/`, months `/mʌnts/`, Thomas `/ˈtɑm·əs/`, Thailand `/ˈtaɪ·lænd/`
 
-
-
-
 https://www.merriam-webster.com/words-at-play/mums-the-letter-when-letters-dont-say-a-thing
+
+
+### R colored vowels 
+
+| Spelling | IPA    | Examples                                     | Notes       |
+| -------- | ------ | -------------------------------------------- | ----------- |
+| `<ear>`  | `/ɪr/` | ear, dear, fear, gear, hear, near            | Most often  |
+|          | `/ɝ/`  | learn, pearl, earl, earth, rehearse, earnest | Less often  |
+|          | `/ɛr/` | bear, wear, pear                             | Sometimes   |
+|          | `/ɑr/` | heart                                        | exceptional |
+
+
+https://soundsamerican.net/article/the_difference_in_pronunciation_between_hair_hare_and_heir
+
+

@@ -1,5 +1,3 @@
-
-
 | en                 | he                   |                                                                                           |
 | ------------------ | -------------------- | ----------------------------------------------------------------------------------------- |
 | phonology          | פונולגיה, תורת ההגה  |                                                                                           |
@@ -13,13 +11,6 @@
 | sonorant           | צוֹלֵל               | a speech sound that is produced with continuous, non-turbulent airflow in the vocal tract |
 | Syllabic consonant | עיצור הברתי          | `[◌̩]`                                                                                    |
 |                    |                      |                                                                                           |
-
-
-
-
-
-
-
 
 
 <img width="300" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/IPA-euler-manners-features.svg" />

@@ -9,10 +9,7 @@
 |        |                     |     |
 
 
-
-
-
-## Voiceless plosives `/p, t, k/`
+# Voiceless plosives `/p, t, k/`
 
 | Allophones     | desc                                                                | examples                                       |
 | -------------- | ------------------------------------------------------------------- | ---------------------------------------------- |
@@ -21,12 +18,7 @@
 | `[sp, st, sk]` | Unaspirated or "soft" immediately after /s/                         | spill, still, skill                            |
 | `[p̚, t̚, k̚]` | Unreleased airflow at word boundaries, or before another obstruent  | rap, rat, rack; napsack, night rate, tick-tock |
 
-
-
-
-## `/p/` Voiceless Bilabial
-
-
+# Voiceless Bilabial  `/p/`
 
 | Allophones | desc                                                                              | examples |
 | ---------- | --------------------------------------------------------------------------------- | -------- |
@@ -35,33 +27,27 @@
 | `[sp]`     |                                                                                   |          |
 | `[p̚]`     | unreleased in syllable-final position before a consonant; optional before silence | apt      |
 
-
-
-
-
 # Voiceless Alveolar `/t/`
-
-https://www.quickanddirtytips.com/articles/all-the-different-ways-we-pronounce-the-letter-t/
-
 
 ### Unaspirated `[t]` 
 
 - unaspirated after `/s/` in a syllable-initial cluster
-- stack
-
-
-### Unreleased `[t̚]` 
-- what do - `[what̚ do]`
-
+- stack, steal
 
 ### Aspirated `[tʰ]` 
 
 - aspirated (but with weaker aspiration in unstressed syllables)
-- top
+- top, two `[ˈtʰu]`
+
+### Unreleased `[t̚]` 
+- before consonant
+	- what do - `[what̚ do]`
+	- next word (*it was, can’t go, didn’t like, eight weeks, might do, at work, won’t need, budget cut*) 
+	- the same word (*football, lately, atmosphere, Atlanta, outside, nightmare, atlas, butler*)
 
 ### Glottal stop `[ʔ]` 
 
-- Glottal stop before `/n, l/`
+- Glottal stop before `/n/`
 
 |           | IPA              |                 |
 | --------- | ---------------- | --------------- |
@@ -74,7 +60,7 @@ https://www.quickanddirtytips.com/articles/all-the-different-ways-we-pronounce-t
 
 ###  Alveolar flap (tap) `[ɾ]`
 
-- between a stressed syllable and an unstressed syllable (a**t**om, smar**t**er, bu**tt**er, bo**tt**le, la**tt**er, na**t**ive, ma**tt**er)
+- between a stressed syllable and an unstressed syllable (a**t**om, smar**t**er, bu**tt**er, bo**tt**le, la**tt**er, na**t**ive, ma**tt**er, water `[ˈwɔɾɚ]`)
 - between two unstressed syllables (pocke**t**ed)
 - Turns pairs of words such as into homophones of `/t/` and `/d/`
 |        |        | s          |
@@ -87,38 +73,18 @@ https://www.quickanddirtytips.com/articles/all-the-different-ways-we-pronounce-t
 | catty  | caddy  | `[ˈkʰæɾi]` |
 |        |        |            |
 
+# Voiceless velar plosive `/k/`
 
+## Unaspirated `[k]`
 
-### Affricated `[tʃ]`
+- quite `[ˈkwaɪt]`, 
+- next `[ˈnɛkst]`
+- like `[ˈlaɪk]`
 
-### Dental `[t̪]` 
+## Aspirated `[kʰ]`
 
-### Nasal Alveolar Flap `[ɾ̃]`
-
-
-
-
-
-
-|                      |                                                                              | ex                                                            |
-| -------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| `[t]`                | unaspirated after /s/ in a syllable-initial cluster                          | to, tell, try, put, not                                       |
-| `[tʰ]`               | aspirated (but with weaker aspiration in unstressed syllables)               | top                                                           |
-| `[ɾ]` *Alveolar tap* | between a stressed syllable and an unstressed syllable                       | bitter=bidder, d atom, smarter,  bu**tt**er, bo**tt**le, la**tt**er, na**t**ive, ma**tt**er    |
-|                      | between two unstressed syllables                                             |                                                               |
-|                      |                                                                              |                                                               |
-| `[ʔ]`                | Glottal stop before `/n, l/`                                                 | ea**t**en, co**tt**on, cer**t**ain, bu**tt**on, impor**t**ant |
-| `[ʔt]`               | glottal replacement in syllable final position before a consonant or silence |                                                               |
-| `[t̬]`               | voiced flap as an alternative between vowels                                 | water, city, little, beauty, matter, but I                    |
-| `[t̚]`               | unreleased in syllable-final position before a consonant                     | foot, what                                                    |
-| `[t̪]`               | dental before dental consonants                                              |                                                               |
-|                      | retracted before `/r/`                                                       |                                                               |
-|                      |                                                                              |                                                               |
-
-
-
-
-
+- come `[ˈkʰʌm]`
+- account `[əˈkʰaʊnt]`
 
 # `/l/`
 

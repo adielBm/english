@@ -3,6 +3,7 @@
 - $\ce{NP}$ - Noun phrase
 - $\ce{AP}$ - Adjective phrase
 - $\ce{PP}$ - prepositional phrase
+- $\ce{AdvP}$ - Adverb phrase
 
 - $\ce{S}$ - sentence
 - $\ce{N}$ - Noun/Pronoun
