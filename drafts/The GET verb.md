@@ -6,14 +6,19 @@
 - `get [recipient] a [object]` - Can I **get you a drink**?
 
 ## become
-- `get [adj]` - Your coffee is **getting cold**
+ `get [Adj]` 
+ - Your coffee is **getting cold**
+ - They have gotten interested.
+ - They got tired
 
 ## (get-passive)
-- `get [v3]` - This window **got broken**
+- `get [V3]` - This window **got broken**
+> see [[Passive#*get*-passive]]
 
-## cause 
+## Causative  
 - `get [NP] [Adj]` - She had to **get the kids ready** for school
 - `get [NP] [V3]` - I'm trying to **get this article finished** by Thursday
+	- *They got their house built* (causative =*They build their house*) 
 - `get [NP] to [Verb]` - I can't **get this printer to work**!
 
 |                       | Present                           | Past                             | Modal                          |
@@ -24,11 +29,13 @@
 
 - I will get the doctor to give you a medicine.
 
-####  *get*-pseudo-passives
--  `get [object] [V3]` - 
+####  *get*-pseudo-passives (Non-Causative)
+-  `get [NP] [V3]` 
+	- *They **got their bike stolen** today* (=*Their bike got stolen today*)
+	- *We **got our car radio stolen** twice on holiday.* 
+	- *I get my hair done about once a month.*
 
-> Causative: *"They got their house built"* is like *"They build their house"*
-> Non-Causative: *They got their bike stolen today.* = *Their bike got stolen today*
+>Get-pseudo-passives and [[The HAVE verb#*have*-pseudo-passives|have-pseudo-passive]] can often both be used to express causative and non-causative meanings. The have-passive is more formal than the get-passive
 
 ## prepare
 - `get [object]` - I'll do the main course, if you **get the salad**
@@ -48,7 +55,11 @@
 - `get [object]` - I told that joke to Sophia, but she didn't **get it** .
 
 ## have chance
-- `get [to infinitive]` - I never **get to see** her now that she works somewhere else.
+- `get to [verb]` - 
+	- I never **get to see** her now that she works somewhere else.
+	- That’s great advice. I’m so glad I **got to talk** to you
+	-  It was a lot of fun. I got to see Arkansas. I got to see that country.
+
 
 ___
 

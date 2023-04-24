@@ -165,7 +165,7 @@ Shall is also used to issue directives but this use is very formal and rare: _(n
 - *be* to - (*You **are not to** tell anyone*), *(She **was to** have met a gentleman friend at Southampton)*
 
 ### must 
-- have to
+- [[#have to]]
 
 ## Other modal expressions with *be*
 
@@ -183,7 +183,14 @@ Shall is also used to issue directives but this use is very formal and rare: _(n
 
 ___
 
-#### have to (obligation)
+## Ability
+
+- can / could
+- be able to
+
+## Obligation 
+
+### have to
 
 - have to $\ce{VP}$ 
 - *(informal)* have got to $\ce{VP}$ 
@@ -195,21 +202,11 @@ ___
 
 >see more in [[The HAVE verb]]
 
-___
-
-#### had better
+## had better
 - subject **had better (not)** VP
 - **had** subject **better** VP
 - **had not** subject **better** VP
 
 >The same for ***had best***
 
-___
-
-## Ability
-
-- can / could
-- be able to
-
-## Obligation
 

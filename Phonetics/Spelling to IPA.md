@@ -31,63 +31,65 @@
 
 ## `<o>`
 
-| Spelling | IPA     | Examples                                            | Notes                    |
-| -------- | ------- | --------------------------------------------------- | ------------------------ |
-| `<o>`    | `/ɑ/`   | hot, not, stop                                      |                          |
-|          | `/oʊ/`  | won’t, don't                                               |                          |
-|          |         |  go, no, so                                                   |                          |
-|          |         | okay, only, open, over                             |                          |
-|          |         | old, bold, cold, gold, fold, hold, mold, sold, told, bolt, colt, molt, volt | `<-old>`, `<-olt>`                 |
-|          |         | hope, home, hole, those, close, alone, phone, whole | `<-o-e>`                 |
-|          | `/ɔ/`   | dog, off, loss                                      |                          |
-|          | `/ʌ/`   | come, love, color, nothing, done, gone                          |                          |
-|          | `/ə/`   | person, today, second, reason                       |                          |
-| `<oo>`   | `/u/`   | fool, too                                           |                          |
-|          | `/ʊ/`   | good, wood                                          |                          |
-|          | `/ʌ/`   | blood, flood                                        | very exceptional         |
-|          | `/ʊ/`   | book, look                                          | `<ook>`                  |
-|          | `/ɔ/`   | door, floor                                         | `<oor>`                  |
-|          | `/ʊ/`   | boor                                                |                          |
-| `<ow>`   | `/oʊ/`  | show, know                                          |                          |
-|          | `/aʊ/`  | town, now                                           |                          |
-| `<oy>`   | `/ɔɪ/`  | boy, joy                                            |                          |
-| `<oi>`   | `/ɔɪ/`  | oil, join                                           |                          |
-| `<oe>`   | `/oʊ/`  | poem, toe, goes                                     |                          |
-|          | `/u/`   | shoe                                                |                          |
-|          | `/ə/`   | does                                                |                          |
-| `<oa>`   | `/oʊ/`  | loan, road, oat                                     |                          |
-|          | `/ɔ/`   | board, oar                                          | `<oar>`                  |
-| `<ou>`   | `/aʊ/`  | house, out, south                                   | Most often               |
-|          | `/ə/`   | famous, jealous                                     | unstressed syllables     |
-|          | `/u/`   | youth, group                                        | less often               |
-|          | `/ʌ/`   | trouble                                             |                          |
-|          | `/oʊ/`  | soul                                                |                          |
-|          | `/ɔ/`   | four, pour                                          | `<Cour>`                 |
-|          | `/ʊ/`   | could, should, would                                | `<oul>` only those words |
-| `<ough>` | `/oʊ/ ` | though, doughnut, although, dough                   |                          |
-|          | `/u/`   | through                                             |                          |
-|          | `/ʌf/`  | rough, enough, tough, sough, slough                 |                          |
-|          | `/ɔf/`  | cough, trough                                       |                          |
-|          | `/ɔ/`   | thought, nought, ought, brought                     |                          |
-|          | `/aʊ/`  | bough, doughty, drought, plough                     |                          |
-|          |         |                                                     |                          |
+| Spelling | IPA     | Examples                                                                    | Notes                    |
+| -------- | ------- | --------------------------------------------------------------------------- | ------------------------ |
+| `<o>`    | `/ɑ/`   | hot, not, stop                                                              |                          |
+|          | `/oʊ/`  | won’t, don't                                                                |                          |
+|          |         | go, no, so                                                                  |                          |
+|          |         | okay, only, open, over                                                      |                          |
+|          |         | old, bold, cold, gold, fold, hold, mold, sold, told, bolt, colt, molt, volt | `<-old>`, `<-olt>`       |
+|          |         | hope, home, hole, those, close, alone, phone, whole                         | `<-o-e>`                 |
+|          | `/ɔ/`   | dog, off, loss                                                              |                          |
+|          | `/ʌ/`   | come, love, color, nothing, done, gone                                      |                          |
+|          | `/ə/`   | person, today, second, reason                                               |                          |
+| `<oo>`   | `/u/`   | fool, too, room, soon                                                       |                          |
+|          | `/ʊ/`   | good, stood, wood, hood, soot, foot, hoof, woof                             |                          |
+|          | `/ʌ/`   | blood, flood                                                                | very exceptional         |
+|          | `/ʊ/`   | book, look, cook                                                            | `<ook>`                  |
+|          | `/ɔ/`   | door, floor                                                                 | `<oor>`                  |
+|          | `/ʊ/`   | boor                                                                        |                          |
+| `<ow>`   | `/oʊ/`  | show, know                                                                  |                          |
+|          | `/aʊ/`  | town, now                                                                   |                          |
+| `<oy>`   | `/ɔɪ/`  | boy, joy                                                                    |                          |
+| `<oi>`   | `/ɔɪ/`  | oil, join                                                                   |                          |
+| `<oe>`   | `/oʊ/`  | poem, toe, goes                                                             |                          |
+|          | `/u/`   | shoe                                                                        |                          |
+|          | `/ə/`   | does                                                                        |                          |
+| `<oa>`   | `/oʊ/`  | loan, road, oat                                                             |                          |
+|          | `/ɔ/`   | board, oar                                                                  | `<oar>`                  |
+| `<ou>`   | `/aʊ/`  | house, out, south                                                           | Most often               |
+|          | `/ə/`   | famous, jealous                                                             | unstressed syllables     |
+|          | `/u/`   | youth, group                                                                | less often               |
+|          | `/ʌ/`   | trouble                                                                     |                          |
+|          | `/oʊ/`  | soul                                                                        |                          |
+|          | `/ɔ/`   | four, pour                                                                  | `<Cour>`                 |
+|          | `/ʊ/`   | could, should, would                                                        | `<oul>` only those words |
+| `<ough>` | `/oʊ/ ` | though, doughnut, although, dough                                           |                          |
+|          | `/u/`   | through                                                                     |                          |
+|          | `/ʌf/`  | rough, enough, tough, sough, slough                                         |                          |
+|          | `/ɔf/`  | cough, trough                                                               |                          |
+|          | `/ɔ/`   | thought, nought, ought, brought                                             |                          |
+|          | `/aʊ/`  | bough, doughty, drought, plough                                             |                          |
+|          |         |                                                                             |                          |
 
 ## `<e>`
 
-| Spelling | IPA    | Examples           | Notes                                     |
-| -------- | ------ | ------------------ | ----------------------------------------- |
-| `<e>`    | `/ɛ/`  | get, wet           | almost always in closed stressed syllable |
-| `<ee>`   | `/i/`  | need, feel, see    |                                           |
-| `<ea>`   | `/i/`  | each, meat, sea    | mostly                                    |
-|          | `/ɛ/`  | sweat, ready       |                                           |
-|          | `/eɪ/` | great, break       | unusual                                   |
-|          | `/ə/`  | ocean              | very exceptional                          |
-| `<ei>`   | `/eɪ/` | eight, weight      | In most words                             |
-|          | `/i/`  | receive, ceiling   | In some words                             |
-|          | `/aɪ/` | height, feisty     | very exceptional                          |
-| `<ey>`   | `/eɪ/` | obey, they, survey |                                           |
-|          | `/i/`  | key, money, honey  |                                           |
-| `<ew>`   | `/u/`  | blew, chew, crew   |                                           |
+| Spelling | IPA    | Examples                                              | Notes                                     |
+| -------- | ------ | ----------------------------------------------------- | ----------------------------------------- |
+| `<e>`    | `/ɛ/`  | get, wet                                              | almost always in closed stressed syllable |
+|          | `/i/`  | we, me, he, be, she                                   |                                           |
+|          |        | these, gene, scene, fetus, zero, atmosphere, bacteria |                                           |
+| `<ee>`   | `/i/`  | need, feel, see                                       |                                           |
+| `<ea>`   | `/i/`  | each, meat, sea, reveal,                                        | mostly                                    |
+|          | `/ɛ/`  | sweat, ready,  bread, dead, pleasure, bear            |                                           |
+|          | `/eɪ/` | great, break                                          | unusual                                   |
+|          | `/ə/`  | ocean                                                 | very exceptional                          |
+| `<ei>`   | `/eɪ/` | eight, weight                                         | In most words                             |
+|          | `/i/`  | receive, ceiling                                      | In some words                             |
+|          | `/aɪ/` | height, feisty                                        | very exceptional                          |
+| `<ey>`   | `/eɪ/` | obey, they, survey                                    |                                           |
+|          | `/i/`  | key, money, honey                                     |                                           |
+| `<ew>`   | `/u/`  | blew, chew, crew                                      |                                           |
 
 ### The `<ed>` ending
 
@@ -99,41 +101,43 @@
 
 ## `<i>`
 
-| Spelling | IPA    | Examples                          | Notes                                      |
-| -------- | ------ | --------------------------------- | ------------------------------------------ |
-| `<i>`    | `/ɪ/`  | pink, hint                        | closed stressed syllable                   |
-|          | `/aɪ/` | kind, mind, bind, find, wind      | ends with the `<-ind>` letter combinations |
-|          |        | side, time, wise                  | `<i-e>`    *silent 'E'*                    |
-|          | `/i/`  | machine, police, prestige, unique | very exceptional                           |
-| `<ie>`   | `/i/`  | piece, field                      |                                            |
-|          | `/aɪ/` | die, lie, pie                     | very exceptional                           |
-|          | `/ɛ/`  | friend                            | the only word                              |
-|          | `/ə/`  | ancient                           | very exceptional                           |
-| `<igh>`  | `/aɪ/` | high, thigh, sigh, high, sight, light, bright, night, fight                      |                                            |
-|          |        |                                   |                                            |
+| Spelling | IPA    | Examples                                                                     | Notes                                      |
+| -------- | ------ | ---------------------------------------------------------------------------- | ------------------------------------------ |
+| `<i>`    | `/ɪ/`  | pink, hint, big, lid, bill, kid                                              | closed stressed syllable                   |
+|          | `/aɪ/` | kind, mind, bind, find, wind                                                 | ends with the `<-ind>` letter combinations |
+|          |        | side, time, wise                                                             | `<i-e>`    *silent 'E'*                    |
+|          |        | climb, child, pilot                                                          |                                            |
+|          | `/i/`  | machine, police, prestige, unique, ski, magazine, pizza, technique, souvenir | very exceptional                           |
+| `<ie>`   | `/i/`  | piece, field                                                                 |                                            |
+|          | `/aɪ/` | die, lie, pie, vie, tie                                                      | very exceptional                           |
+|          | `/ɛ/`  | friend                                                                       | the only word                              |
+|          | `/ə/`  | ancient                                                                      | very exceptional                           |
+| `<igh>`  | `/aɪ/` | high, thigh, sigh, high, sight, light, bright, night, fight                  |                                            |
+|          |        |                                                                              |                                            |
 
 ## `<u>`
 
-| Spelling | IPA      | Examples                  | Notes                           |
-| -------- | -------- | ------------------------- | ------------------------------- |
-| `<u>`    | `/ʌ/`    | but, cup                  | in a closed stressed syllable   |
-|          | `/ʊ/`    | full, pull                | `<ul, ull>`                     |
-|          |          | bush, push                | `<ush>`                         |
-|          |          | sugar, put, pudding       | exceptional                     |
-|          |          | lure                      | `<u-e>`    *silent 'E'*         |
-|          | `/u/`    | duty                      |                                 |
-|          |          | brute                     | `<u-e>`    *silent 'E'*         |
-|          | `/ju/`   | amusing                   |                                 |
-|          |          | cube, cute                | `<u-e>` *silent `<e>`*          |
-|          | `/jʊ/`   | fury                      |                                 |
-| `<ui>`   | `/u/`    | fruit, juice              |                                 |
-|          | `/aɪ/`   | guide                     | `<gu>` silent, and `<e>` silent |
-|          | `/wi/`   | suite                     | very exceptional                |
-| `<gu>`   | *silent* | guard, guest, guitar, guy |                                 |
-|          | `/gwɪ/`  | language, penguin         |                                 |
-| `<ue>`   | `/u/`    | blue, clue, true          |                                 |
-|          | `/ju/`   | argue, value, venue       |                                 |
-|          |          |                           |                                 |
+| Spelling | IPA      | Examples                                 | Notes                           |
+| -------- | -------- | ---------------------------------------- | ------------------------------- |
+| `<u>`    | `/ʌ/`    | but, cup, bus, sum                                 | in a closed stressed syllable   |
+|          |          | dull, hull, null, lull, gull, mull, cull |                                 |
+|          | `/ʊ/`    | full, pull, bull                         |                                 |
+|          |          | bush, push                               | `<ush>`                         |
+|          |          | sugar, put, pudding                      | exceptional                     |
+|          |          | lure                                     | `<u-e>`    *silent 'E'*         |
+|          | `/u/`    | duty                                     |                                 |
+|          |          | brute                                    | `<u-e>`    *silent 'E'*         |
+|          | `/ju/`   | amusing                                  |                                 |
+|          |          | cube, cute                               | `<u-e>` *silent `<e>`*          |
+|          | `/jʊ/`   | fury                                     |                                 |
+| `<ui>`   | `/u/`    | fruit, juice                             |                                 |
+|          | `/aɪ/`   | guide                                    | `<gu>` silent, and `<e>` silent |
+|          | `/wi/`   | suite                                    | very exceptional                |
+| `<gu>`   | *silent* | guard, guest, guitar, guy                |                                 |
+|          | `/gwɪ/`  | language, penguin                        |                                 |
+| `<ue>`   | `/u/`    | blue, clue, true                         |                                 |
+|          | `/ju/`   | argue, value, venue                      |                                 |
+|          |          |                                          |                                 |
 
 # Consonant 
 
@@ -187,8 +191,7 @@ https://www.merriam-webster.com/words-at-play/mums-the-letter-when-letters-dont-
 |          | `/ɝ/`  | learn, pearl, earl, earth, rehearse, earnest | Less often  |
 |          | `/ɛr/` | bear, wear, pear                             | Sometimes   |
 |          | `/ɑr/` | heart                                        | exceptional |
-
-
+ 
 https://soundsamerican.net/article/the_difference_in_pronunciation_between_hair_hare_and_heir
 
 
