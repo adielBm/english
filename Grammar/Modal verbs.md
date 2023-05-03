@@ -66,6 +66,7 @@
 |       | Habitual actions    | _We would always go to the seaside for our holidays._                                                                                |
 |       | Volition            | _I did ask him, but he wouldn’t give me an answer._                                                                                  |
 |       | Responding          | _It was a freezing cold morning and the car wouldn’t start._                                                                         |
+|       |                     |                                                                                                                                      |
 |       | **Other uses:**     |                                                                                                                                      |
 |       | Hedging             | I **would** always recommend a slightly softer bed than a harder one.                                                                |
 |       |                     | I’d say you are about 40.                                                                                                            |

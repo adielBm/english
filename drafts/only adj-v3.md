@@ -6,9 +6,6 @@
 - taught
 - swept
 - shipped
-- 
-
-
 
 ### Only Adj
 

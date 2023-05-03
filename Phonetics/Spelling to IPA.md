@@ -146,13 +146,19 @@
     - `<h>` is silent in the begining of some words. (*hour, heir, honor, herb, homage, honest*) 
     - `<h>` appears in a few consonant digraphs: `<ch>`, `<gh>`, `<ph>`, `<th>`, `<sh>` and `<wh>`
 - `<b>` is silent after `<m>` (*bomb, climb, comb, crumb, dumb, lamb, limb, numb, plumb, thumb, tomb*)
-- `<t>` is pronounce as `//`
-- `<g>` - 
+- `<g>`
 	- `<gh>` 
 		- `/g/` - ghetto `/ˈgɛtoʊ/`, ghost `/goʊst/`, and spaghetti `/spəˈgɛti/`
 		- see `<igh>`
 		- see `<ough>`
-- `<tr>` becomes almost to `/tʃr/` *(travel, tradition, translate, traffic, turn, turkey, introduce, interest, extremely, terrific)*
+	- `<gn>`
+		- in the same syllable - `<g>` is silent - (*gnaw, sign, foreign, campaign, design, assign, feign, reign*)
+		- in different syllables - `<g>` is `/g/` - (*signal, magnet, ignore*)
+- `<tu>` becomes to `/tʃ/` - (*virtue, future, mature, mutual, nature, statue, ritual, fortunately*)
+
+#### becomes almost..
+- `<tr>` becomes almost to `/tʃr/` *(travel, tradition, translate, traffic, , introduce, interest, extremely, terrific)*
+	- `<tur>`, `<ter>` becomes almost to `/tʃr/` (turn, turkey, terrific)
 - `<dr>` becomes almost to `/dʒr/` (*drink, drop, dream, drama, syndrome, children, address, cathedral, hundred, laundry*)
 - `<du>` becomes almost to `/dʒ/` (*gradual, education, schedule, procedure, graduation, individual*)
 - `<dy>` becomes almost to `/dʒ/` (*did you, could you, would you, should you*)

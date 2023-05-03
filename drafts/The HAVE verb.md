@@ -39,10 +39,21 @@ ___
 
 ## do
 -  `have [NP]` - to perform the action (NP) mentioned
-	- I **had a swim**
+- **Commonly used *nouns*** (*bath, shower, wash, scrub, break, holiday, rest, care, turn, chance, decision, risk, argument, dispute, fight, quarrel, chat, conversation, discussion, talk, meal, breakfast, lunch, dinner, snack, cup of tea*)
 	- We **have a walk** after lunch.
 	- We **had a dance** and afterwards we sat outside and talked.
 	- May I **have a look** at your newspaper?" "Of course you can."
+	- I am going to **have a nice nap**.
+	- She **had a smoke**.
+	- I **had a good breakfast** before I left home.  
+	- We **had a long talk** about the problem.  
+	- The kids should **have a bath** before they go to bed.  
+	- She generally **had a short holiday** in July or August.  
+	- They **had a serious quarrel** about their father's will.
+	- She **had a bite of the cake**.
+	- I'm thirsty. I'm going to **have a drink of water**.
+	- I **had a listen** to that new CD in the car.
+	- They are going to **have a swim**.
 - organize
 	*- Let's have a party.*
 
@@ -64,12 +75,10 @@ ___
 - She had him by the collar.
 - He had his head in his hands.
 
-
 to do 
 https://english.stackexchange.com/questions/63256/which-is-correct-has-died-or-died/63263#63263
 https://english.stackexchange.com/questions/120721/have-vs-have-got-in-american-and-british-english
 https://www.oxfordlearnersdictionaries.com/definition/american_english/have_1
-
 
 ____
 # Idioms & Expressions 

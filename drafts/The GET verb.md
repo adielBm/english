@@ -1,23 +1,33 @@
 ## recive, obtain
-- `get [object]` - Where did you **get your shoes** from?
+- `get [NP]` - Where did you **get your shoes** from?
 
 ## bring
-- `get [object]` - Let me go **get my glasses**
-- `get [recipient] a [object]` - Can I **get you a drink**?
+- `get [NP]` - Let me go **get my glasses**
+- `get [NP] [NP]` - Get John a drink.
+- `get [NP] for [NP]` -  Get a drink for John.
+
+
+# state/condition
 
 ## become
- `get [Adj]` 
- - Your coffee is **getting cold**
- - They have gotten interested.
- - They got tired
+ - `get [Adj]` 
+	 - Your coffee is **getting cold**
+	 - They have gotten interested.
+	 - They got tired
 
 ## (get-passive)
-- `get [V3]` - This window **got broken**
+- `get [V3]` 
+	- This window **got broken**
+	- They plan to **get married** in the summer
+	- 
 > see [[Passive#*get*-passive]]
 
-## Causative  
-- `get [NP] [Adj]` - She had to **get the kids ready** for school
-- `get [NP] [V3]` - I'm trying to **get this article finished** by Thursday
+# Causative  
+
+- `get [NP] [Adj]` 
+	- She had to **get the kids ready** for school  (=prefare)
+- `get [NP] [V3]` - 
+	- I'm trying to **get this article finished** by Thursday
 	- *They got their house built* (causative =*They build their house*) 
 - `get [NP] to [Verb]` - I can't **get this printer to work**!
 
@@ -29,7 +39,7 @@
 
 - I will get the doctor to give you a medicine.
 
-####  *get*-pseudo-passives (Non-Causative)
+##  *get*-pseudo-passives (Non-Causative)
 -  `get [NP] [V3]` 
 	- *They **got their bike stolen** today* (=*Their bike got stolen today*)
 	- *We **got our car radio stolen** twice on holiday.* 
@@ -37,9 +47,12 @@
 
 >Get-pseudo-passives and [[The HAVE verb#*have*-pseudo-passives|have-pseudo-passive]] can often both be used to express causative and non-causative meanings. The have-passive is more formal than the get-passive
 
+
+___
+
 ## prepare
-- `get [object]` - I'll do the main course, if you **get the salad**
-- `get [object] ready` - I'll put the kids to bed while you're **getting dinner ready**.
+- `get [NP]` - I'll do the main course, if you **get the salad**
+- `get [NP] ready` - I'll put the kids to bed while you're **getting dinner ready**
 
 ## arrive, move
 - `get (to/into) a [place]` - If you **get to the restaurant** before us, just wait at the bar.
@@ -60,8 +73,10 @@
 	- That’s great advice. I’m so glad I **got to talk** to you
 	-  It was a lot of fun. I got to see Arkansas. I got to see that country.
 
-
 ___
+
+# Expressions 
+- They **got a divorce** in 1998. (compare the more formal: They divorced in 1998.)
 
 # Phresal verbs
 - get **up to** – do
@@ -75,7 +90,6 @@ ___
 - get **through to** (someone) – successfully explain something
 - get **wound up** (about something) –  get angry about something
 - get **to** - to arrive
-
 
 # Informal usage 
 

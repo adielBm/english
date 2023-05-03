@@ -20,6 +20,31 @@
 >Get-passives occur more frequently with no agent phrase than be-passives.
 >Get-passives can be reflexive: (*He got **himself** promoted to manager.*)
 
+___
+
+- (v3/adj)
+	- The window was broken. (ambiguous)
+	- The window got broken. (verbal)
+	- They were married. (ambiguous)
+- (adj)
+	- They **got frightened** (ambiguous)
+- (v3/adj + by)
+	- The window **was** broken **by** vandals. (verbal)
+	- The window **got** broken **by** vandals. (verbal)
+	- They **got** killed **by** the hijackers (verbal)
+- with adjverb
+	- They **got very frightened** (adjectival) 
+	- They were very worried. (adjectival)
+
+## bare-passive
+
+- He saw Kim mauled by our neighbour’s dog.
+- The guy mauled by our neighbour’s dog is in intensive care
+- City Hall damaged by storms
+
+
+___
+
 ### Pseudo-Passives
 
 > see also *have*-pseudo-passives, and *get*-pseudo-passives 
@@ -32,6 +57,3 @@ ___
 > It isn't nice to be insulted. (passive infinitive)
 > I would have got/gotten injured if I had stayed in my place. (conditional perfect passive with get)
 > Having been humiliated, he left the stage. (passive present participle, perfect aspect)
-
-
-

@@ -21,7 +21,7 @@
 - `/ɔ/` - moth, cloth, sloth
 
 
-- `/oʊ/` - hope, home, hole, those, close, alone, phone, whole, bone, cone, hone, lone, tone, clone,  lobe, robe, globe, rove, dome, tome, nose, pose, rose, dose, pole, role, dole, tote, vote, 
+- `/oʊ/` - hope, home, hole, those, close, alone, phone, whole, bone, cone, hone, lone, tone, clone, lobe, robe, globe, rove, dome, tome, nose, pose, rose, dose, pole, role, dole, tote, vote, 
 - `/ʌ/` come, done, none, shove, dove, love
 - `/ɔ/` - gone, solve
 -  `/u/` - move, lose
