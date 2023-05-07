@@ -4,12 +4,16 @@
 
 | Spelling | IPA    | Examples                                         | Notes                                                                                         |
 | -------- | ------ | ------------------------------------------------ | --------------------------------------------------------------------------------------------- |
-| `<a>`    | `/æ/`  | cat, apple                                       | in closed stressed syllables                                                                  |
+| `<a>`    | `/æ/`  | cat, apple, black                                | in closed stressed syllables                                                                  |
 |          | `/ə/`  | ago, about                                       | in unstressed syllable                                                                        |
-|          | `/eɪ/` | take, place                                      | in closed stressed syllables that end with a *silent 'E'*, `<Ce>, <ple>, <ble>, <dle>, <tle>` |
+|          | `/eɪ/` | take, place, ate                                 | in closed stressed syllables that end with a *silent 'E'*, `<Ce>, <ple>, <ble>, <dle>, <tle>` |
 |          |        | amen, chaos                                      | in open stressed syllables                                                                    |
 |          | `/ɑ/`  | swan, want, watt                                 | `<wa>`                                                                                        |
-|          |        | father, bra, suave                               |                                                                                               |
+|          |        | father, bra                                      |                                                                                               |
+|          | `/ɪ/`  | image, private                                   |                                                                                               |
+|          | `/ɔ/`  | water                                            |                                                                                               |
+|          | `/ɛ/`  | any, many                                        |                                                                                               |
+|          | `/ʌ/`  | was, what                                        |                                                                                               |
 | `<ai>`   | `/eɪ/` | main, pain                                       | almost always                                                                                 |
 |          | `/ɛ/`  | said, again                                      | very exceptional                                                                              |
 |          | `/aɪ/` | chai, aisle                                      | very exceptional                                                                              |
@@ -20,14 +24,14 @@
 |          | `/oʊ/` | chauffeur, mauve                                 | very exceptional, from French                                                                 |
 | `<aw>`   | `/ɔ/`  | law, straw, draw, saw                            |                                                                                               |
 | `<ay>`   | `/eɪ/` | day, may, say                                    |                                                                                               |
-| `<al>`   | `/ɑ/`  | calm, palm, almond                               |                                                                                               |
-|          | `/ɔl/` | also, always, false, salt                        |                                                                                               |
-| `<all>`  | `/ɔl/` | all, fall, hall, tall                            |                                                                                               |
+| `<al>`   | `/ɔl/` | also, always, already, false, salt               |                                                                                               |
+| `<alm>`  | `/ɑ/`  | calm, palm, almond                               |                                                                                               |
+| `<alk>`  | `/ɔ/`  | talk, walk, balk, stalk, chalk                   |                                                                                               |
+| `<all>`  | `/ɔl/` | all, fall, hall, tall, call, small               |                                                                                               |
 | `<ar>`   | `/ɑ/`  | are, card, dark, remark, target                  |                                                                                               |
 |          | `/ɔ/`  | war, warm, ward, quartz, quart, quartet          | `<ar>` after `/w/`                                                                            |
 | `<augh>` | `/ɔ/`  | caught, naught, daughter, faugh, naughty, taught |                                                                                               |
 |          | `/æf/` | laugh, draught                                   |                                                                                               |
-|          |        |                                                  |                                                                                               |
 
 ## `<o>`
 
@@ -155,6 +159,8 @@
 		- in the same syllable - `<g>` is silent - (*gnaw, sign, foreign, campaign, design, assign, feign, reign*)
 		- in different syllables - `<g>` is `/g/` - (*signal, magnet, ignore*)
 - `<tu>` becomes to `/tʃ/` - (*virtue, future, mature, mutual, nature, statue, ritual, fortunately*)
+- `<su>` - becomes to `/ʃ/` - (issue, sensual, pressure)
+	- `/z/` before `<u>` becomes `/ʒ/` (visual, usual, seizure, treasury)
 
 #### becomes almost..
 - `<tr>` becomes almost to `/tʃr/` *(travel, tradition, translate, traffic, , introduce, interest, extremely, terrific)*
@@ -162,6 +168,7 @@
 - `<dr>` becomes almost to `/dʒr/` (*drink, drop, dream, drama, syndrome, children, address, cathedral, hundred, laundry*)
 - `<du>` becomes almost to `/dʒ/` (*gradual, education, schedule, procedure, graduation, individual*)
 - `<dy>` becomes almost to `/dʒ/` (*did you, could you, would you, should you*)
+- 
 
 ## `<c>` 
 
@@ -200,4 +207,6 @@ https://www.merriam-webster.com/words-at-play/mums-the-letter-when-letters-dont-
  
 https://soundsamerican.net/article/the_difference_in_pronunciation_between_hair_hare_and_heir
 
+___
 
+suave

@@ -1,19 +1,31 @@
 - the ***preposition*** goes at the end of the question - *Who did you send these pictures **to**?**
 - the ***adverb*** goes at the end of the question - *where are you living **now**?
-- `[aux]` can be **do**, **be**, **have**, or **modal verb** 
-- `[verb]` is modified according to aspect
+- `[AUX]` is **do**, **be**, **have**, or **modal verb** 
+- `[SQ] = [AUX] [Subject] [Verb] (prepostion) (adverb)` - Yes/no question (with prepostion)
 
-# what 
+# *what*, *which* 
 
-### *what* as pronoun
+### pronoun
 
-Which thing, event, circumstance, etc.: used in asking for the specification of an identity, quantity, quality, etc.
-
-- Affirmative: *You want to talk about trips*
-- Interrogatives:  `what [aux] [subject] (verb) (preposition) (adverb)` 
+- Affirmative: *You want to talk today about trips*
+- Interrogatives:  `what [SQ]` 
    - *What do you want to talk about today?*
    - What does it cost?
    - What is your name?
+
+> in *which*, it can be with PP ('of those houses') 
+> *Which **of those houses** do you live in*
+
+### determiner
+
+like *which*, especially which of an open-ended set of possibilities.
+
+- Affirmative: `[subject] [verb] [object-type]` *The lion eats meat*
+- Interrogatives: `what [object] [SQ]` - *What food does the lion eat?*
+	- What time is it?
+	- What color are you going to use?
+
+>In cases where both "what" and "which" are possible, with similar meaning, "what" is preferred for open-ended choices, while "which" is preferred for choices from a closed group or set. For example, "Which one of these do you want?" not "What one of these do you want?".
 
 ### *what* as adverb
 In what way; to what extent.
@@ -22,25 +34,48 @@ In what way; to what extent.
 - _**What** do you care?_
 
 
-### *what* as determiner
+## *who* and *whom*
 
-like *which*, especially which of an open-ended set of possibilities.
+### pronoun
 
-- Affirmative: `[subject] [verb] [object-type]` *The lion eats meat*
-- Interrogatives: `what [object] [aux] [subject] (verb) (preposition) (adverb)` - *What food does the lion eat?*
-	- What time is it?
-	- What color are you going to use?
+- Affirmative: *Daniel saw Joe.* 
+	- pronoun of ***subject***: 
+		- ***Who** saw Joe?* (who = subject = 'Daniel') - `who [verb] [object]`
+		- *I don't know **who saw Joe**.* (indirect question)
+	- pronoun of ***direct object***: 
+		- ***Whom** did Daniel see?* (whom = direct object = 'Joe') `whom [aux] [subject] [verb]`
+		- *I don't know **whom Daniel sees**.* (indirect question)
+- Affirmative: Robin gave candy to the child. 
+	- pronoun of ***subject***: ('robin')
+		- ***Who** gave candy to the child?* 
+	- pronoun of ***indirect object*** ('child') 
+		- To whom did Robin give candy? (formal)
+		- Who did Robin give candy to?
+- Affirmative: *You speak to Bob*
+	- pronoun of ***direct object*** ('Bob') after *TO* 
+		- To whom did you speak? (formal)
+		- Who did you speak to? (informal)
 
->In cases where both "what" and "which" are possible, with similar meaning, "what" is preferred for open-ended choices, while "which" is preferred for choices from a closed group or set. For example, "Which one of these do you want?" not "What one of these do you want?".
+Usage notes
+- ***To/With whom...*** (formal) and ***Who ... to/with*** (informal) are used where in the affirmative there is ***(verb) to/with (someone)***.
+	-  **With whom** did you go? (formal). **Who** did you go **with**? (informal)
+	-  **To whom** did you give it? (formal). **Who** did you give it **to**? (informal)
+- **whoever/whomever/whosever** used as an emphatic form (expressing disbelief) of **who/whom/whose**. 
+	- ***Whoever** thought up that stupid idea?*
+- ***Who*** can also be used as an object pronoun instead ***whom***, especially in informal writing and speech, and *whom* may be seen as (overly) formal.
 
-# which
+#### *whose* 
+- possessive from of who
+	- determiner: 
+		- Whose bike is that? (That is Daniel's bike)
+		- Whose house is this? (This is his house)
+		- That's a nice coat - I wonder whose it is? (That is Bob's coat)
+	- pronoun:
+		- Whose is this? (This is mine)
+		- Whose do you like best? 
+		- Several people have lost their suitcases. Whose have you found? (I've found Daniel's)
 
-### *what* as pronoun
-??
-### *what* as determiner
-
-*Which of those houses do you live in*
-
+___
 # where 
 
 - `where [aux] [subject] (verb) (object) (preposition)`
@@ -69,7 +104,6 @@ indirect questions
      -   Can you tell me where you were waiting?
      -   Can you tell me where I am taking this to?
 
-
 ## when
 
 `when [aux] [subject] [verb] (object) (prepostion)`
@@ -77,10 +111,11 @@ indirect questions
 - When will this film end?
 
 
-# Who
+____
+
+# Who (draft)
 
 `who [aux] [subject] (verb) (object) (prepostion)`
-
 
 Who does this place belong to?
 Who do you want to talk to?
@@ -95,15 +130,9 @@ Who does she think she is?
 `
 Who was that guy I saw you with last night?
 
-
-
 Leo ate my sandwich.
 Who ate my sandwich?  (who = subject)
 What did Leo eat? (what = direct object)
 
-
-Daniel saw Joe. 
-Who saw Joe? (who = subject)
-Who did Daniel see? (who = direct object)
 
 Who did Leslie give the tickets to? (who = indirect object)

@@ -26,6 +26,7 @@
 | fricative              | חוככים      |
 | affricate              | מחוּכָּכים  |
 | nasals                 | אפיים       |
+| approximants           | מקורבים     |
 
 
 ### Place of articulation

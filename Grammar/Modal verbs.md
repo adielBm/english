@@ -1,9 +1,10 @@
+
 | Present tense | Past tense |
 | ------------- | ---------- |
 | can           | could      |
 | may           | might      |
 | shall         | should     |
-| will          | would           |
+| will          | would      |
 | must          |            |
 
 ## General formal properties of modal verbs
@@ -130,8 +131,17 @@ Shall is also used to issue directives but this use is very formal and rare: _(n
 
 # Modal Expressions
 
-### may
-
+- ought to
+- *be* to 
+	- *You **are not to** tell anyone*
+	- *She **was to** have met a gentleman friend at Southampton*
+	- They **are to** be married next month.
+	- They **are to** stay here until I return.
+	- They **are not to** be blamed.
+	- How **are** they **to** get out of this mess?
+	- I **am to** leave tomorrow.
+	- I would drive you, **were** I **to** obtain a car.
+- [[#have to]]
 - hope to 
 - intend to
 - long to
@@ -148,9 +158,6 @@ Shall is also used to issue directives but this use is very formal and rare: _(n
 - want to 
 - wish to
 - yearn to
-
-### will
-
 - aim to 
 - aspire to
 - commit to 
@@ -159,14 +166,6 @@ Shall is also used to issue directives but this use is very formal and rare: _(n
 - resolve to
 - swear to 
 - threaten to 
-
-## should
-
-- ought to
-- *be* to - (*You **are not to** tell anyone*), *(She **was to** have met a gentleman friend at Southampton)*
-
-### must 
-- [[#have to]]
 
 ## Other modal expressions with *be*
 
