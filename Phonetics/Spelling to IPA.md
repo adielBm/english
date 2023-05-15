@@ -35,17 +35,19 @@
 
 ## `<o>`
 
-| Spelling | IPA     | Examples                                                                    | Notes                    |
-| -------- | ------- | --------------------------------------------------------------------------- | ------------------------ |
-| `<o>`    | `/ɑ/`   | hot, not, stop                                                              |                          |
-|          | `/oʊ/`  | won’t, don't                                                                |                          |
-|          |         | go, no, so                                                                  |                          |
-|          |         | okay, only, open, over                                                      |                          |
-|          |         | old, bold, cold, gold, fold, hold, mold, sold, told, bolt, colt, molt, volt | `<-old>`, `<-olt>`       |
-|          |         | hope, home, hole, those, close, alone, phone, whole                         | `<-o-e>`                 |
-|          | `/ɔ/`   | dog, off, loss                                                              |                          |
-|          | `/ʌ/`   | come, love, color, nothing, done, gone                                      |                          |
-|          | `/ə/`   | person, today, second, reason                                               |                          |
+| Spelling | IPA    | Examples                                                                    | Notes              |
+| -------- | ------ | --------------------------------------------------------------------------- | ------------------ |
+| `<o>`    | `/ɑ/`  | hot, not, lot, stop                                                         |                    |
+|          | `/oʊ/` | won’t, don't                                                                |                    |
+|          |        | go, no, so                                                                  |                    |
+|          |        | okay, only, open, over                                                      |                    |
+|          |        | old, bold, cold, gold, fold, hold, mold, sold, told, bolt, colt, molt, volt | `<-old>`, `<-olt>` |
+|          |        | hope, home, hole, those, close, alone, phone, whole                         | `<-o-e>`           |
+|          | `/ɔ/`  | dog, fog, bog, log, pog, off, loss                                          |                    |
+|          | `/ʌ/`  | come, love, color, nothing, done, gone                                      |                    |
+|          | `/ə/`  | person, today, second, reason                                               |                    |
+|          | `/u/`  | do, to                                                                      |                    |
+|          |        |                                                                             |                    |
 | `<oo>`   | `/u/`   | fool, too, room, soon                                                       |                          |
 |          | `/ʊ/`   | good, stood, wood, hood, soot, foot, hoof, woof                             |                          |
 |          | `/ʌ/`   | blood, flood                                                                | very exceptional         |
@@ -204,7 +206,17 @@ https://www.merriam-webster.com/words-at-play/mums-the-letter-when-letters-dont-
 |          | `/ɝ/`  | learn, pearl, earl, earth, rehearse, earnest | Less often  |
 |          | `/ɛr/` | bear, wear, pear                             | Sometimes   |
 |          | `/ɑr/` | heart                                        | exceptional |
- 
+
+#### The sport `[o]` vowel
+
+- `<or>` - north, force, sort, sword, born, cork, form, lord, pork, normal, forty, organ
+- `<ore>` - more, score, sore, store, shore, core, bore, chore, gore, before
+- `<our>` - four, pour, court, mourn, course, source
+- `<oar>` - oar, boar, soar, roar, board, hoard
+- `<oor>` - door, floor
+- `<ar>` after `/w/` - war, warm, ward, quartz, quart, quartet
+
+
 https://soundsamerican.net/article/the_difference_in_pronunciation_between_hair_hare_and_heir
 
 ___

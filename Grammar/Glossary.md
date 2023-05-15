@@ -1,3 +1,4 @@
+
 |          | en                 | he         |
 | -------- | ------------------ | ---------- |
 | **PRO**  | [[#Pronoun]]       | כינוי      |
@@ -10,7 +11,6 @@
 | **Adv**  | Adverb             | תואר הפועל |
 | **CONJ** | [[#Conjunctions]]  | מילת קישור |
 |          | [[#Interjections]] | מילת קריאה |
-
 
 # Pronoun 
 
@@ -104,6 +104,30 @@ participle - בינוני
 | direct object   | מושא ישיר |   
 | indirect object | מושא עקיף |    
 
+### Irregular verbs
+
+- **Base Form** 
+- **Past Tense**[^1] (V2) - regularly **-ed** suffix / irregular forms
+- **Past Participle** (V3) -  regularly **-ed** suffix / irregular forms
+- **Present Participle** - which is formed with an **-ing** suffix
+- **3rd Person Present**[^1] - (He, She, It) - verb(s) / irregular forms.
+
+| Base form  | Past Tense (V2) | Past Participle (V3) | 3rd person present  |
+| ----------- | ----------- | --- | --- |
+| be      | was/were       | been  | is |
+| do |	did |	done | does |
+| have | had | had | has |
+| go | went | gone | goes |
+| get | got | got/gotten | gets |
+| give | gave | given | gives |
+| become | became | become | becomes |
+| begin | began | begun | begins |
+
+- **was** = I, He, She, It. **were** = We, You, They.
+
+[^1]: Do not use together with an **auxiliary verb**
+
+
 # Noun
 
 |     | en                | he             |     |
@@ -132,13 +156,11 @@ _yeah_, _ouch_, _Jesus_, _oh_, _mercy_, _yuck_, etc.
 
 
 ___
-# other terms 
 
-### mood (מודוס)
+# Mood (מודוס)
 
-- Subjunctive - תִּלּוּי
-- Declarative - דקלרטיבי
+- [[Subjunctive]] - תִּלּוּי
 - Indicative - חיווי, אינדיקטיבי
-- imperative - ציווי
+- [[Imperative]] - ציווי
 
 

@@ -17,8 +17,20 @@ ___
 
 > [[Active#Present Perfect]]
 
-## obligation
->  [[Modal verbs#have to]]
+## have to
+
+
+
+-  `have to [VP]`
+- *(informal)*  `have got to [VP]` 
+- *(very informal)* `got to [VP]`
+
+>The interrogative and negative of have to are formed most commonly with **auxiliary *do*** or, less commonly, in formal contexts, by subject-verb inversion.
+
+>***have got to*** is the same like ***have to***, but the interrogative and negative of that are formed by subject-verb inversion.
+
+syn: #need
+
 
 ## cause
 - `have [NP] [Verb]` - cause someone (NP) to do something (Verb) (by a command, request or invitation) 
