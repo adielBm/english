@@ -10,7 +10,6 @@ English imperatives are negated using _don't_ (as in "Don't work!") This is a 
 -   *You **are not** late.* (indicative)
 -   ***Don't be** late!* (imperative)
 
-> [[]]
 ## do-support in affirmative imperatives
 
 It is also possible to use do-support in affirmative imperatives, for emphasis or (sometimes) politeness: 

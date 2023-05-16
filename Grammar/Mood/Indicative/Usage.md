@@ -17,7 +17,10 @@
 - **ongoing actions** - *We are walking the dog*
 - **temporary situations** - *It's raining in San Francisco rigth now*
 - **temporary activity** - *I am writing a book this month*
-- **pre-arranged future event** - *He is playing golf tomorrow* 
+- **future meaning** 
+	- *He is playing golf tomorrow* 
+	- *What time is she arriving?*
+	- *I’m going to take a few exams at the end of the year.*
 - **Emphasize frequency** ^[of an action in a humorous or hyperbolic way] - *He is always eating chocolate!*
 
 ## Present Perfect 
@@ -49,6 +52,7 @@
 - **Two actions in parallel** - *While you **were washing** the dishes, Sue **was walking** the dog.*
 - **Emphasizing how long a past action took** - *The children were playing in the park for the whole afternoon*
 - **Storytelling** - *The sun **was shining** and the birds **were singing**...*
+- We were going to tell you earlier.
 
 ## Past Perfect
 

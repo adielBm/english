@@ -45,7 +45,7 @@
 	- *We **got our car radio stolen** twice on holiday.* 
 	- *I get my hair done about once a month.*
 
->Get-pseudo-passives and [[The HAVE verb#*have*-pseudo-passives|have-pseudo-passive]] can often both be used to express causative and non-causative meanings. The have-passive is more formal than the get-passive
+>Get-pseudo-passives and [[HAVE#*have*-pseudo-passives|have-pseudo-passive]] can often both be used to express causative and non-causative meanings. The have-passive is more formal than the get-passive
 
 
 ___

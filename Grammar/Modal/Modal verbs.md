@@ -144,7 +144,7 @@
 ## shall
 Shall has two main meanings; one refers to future intentions, the other is concerned with offers and advice.
 
-#### Future intentions
+#### #future intentions
 
 - _Shall_ is used instead of _will_ with first person subjects in rather formal contexts to make predictions and to announce intentions or decisions. It is much less frequent than _will_
 - _Shall not/shan’t_ is very rarer, but does occur in formal contexts to make predictions and announce intentions or decisions

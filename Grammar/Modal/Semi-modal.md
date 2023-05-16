@@ -20,8 +20,8 @@
 
 # Modal Expressions
 
-- ought to
-- *be* to 
+- ought to #duty #correctness #probable #desirable #ideal 
+- *be* to #future 
 	- *You **are not to** tell anyone*
 	- *She **was to** have met a gentleman friend at Southampton*
 	- They **are to** be married next month.
@@ -30,7 +30,7 @@
 	- How **are** they **to** get out of this mess?
 	- I **am to** leave tomorrow.
 	- I would drive you, **were** I **to** obtain a car.
-- [[The HAVE verb#have to]] #need
+- [[HAVE#have to]] #need
 - hope to 
 - intend to
 - long to
@@ -58,21 +58,22 @@
 
 ## Other modal expressions with *be*
 
-- be **supposed** to
-- be **about** to 
-- be **able** to #ability 
-- be **bound** to
-- be **due** to
-- be **likely** to/that
 - be **meant** to
-- be **obliged** to
+- be **supposed** to
+- be **about** to #future 
+- be **able** to #ability 
+- be **bound** to #unavoidable #intended #destined #future 
+- be **due** to #future 
+- be **likely** to/that #probability 
+- be **obliged** to #obligation
 - be **going** to #future 
 - be **best** to
 - be **better** to
 
 ___
 
-## had better
+## had better 
+-  #correctness #propriety #expediency 
 - subject **had better (not)** VP
 - **had** subject **better** VP
 - **had not** subject **better** VP
