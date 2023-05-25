@@ -6,7 +6,7 @@
 - used to
 
 ### used to
-
+- Past #habit 
 - The negative of *used to* is most typically *didn’t use(d) to* (_I didn’t used to like jazz_). In more formal styles, *used not to* occurs (_I used not to like jazz_). The contracted form *usedn’t to* may occasionally occur, but is very rare
 - The interrogative of used to has two forms; the more common form is with auxiliary did. (_Did you used to like jazz_) The alternative form involves subject-verb inversion (*Used you to like jazz*), and is very rare
 - Emphatic did may occur with used to. The construction may be represented in writing as did used to or did use to

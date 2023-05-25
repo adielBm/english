@@ -1,4 +1,9 @@
 
+
+
+## part of the speach
+
+
 |          | en                 | he         |
 | -------- | ------------------ | ---------- |
 | **PRO**  | [[#Pronoun]]       | כינוי      |
@@ -11,6 +16,10 @@
 | **Adv**  | Adverb             | תואר הפועל |
 | **CONJ** | [[#Conjunctions]]  | מילת קישור |
 |          | [[#Interjections]] | מילת קריאה |
+
+
+
+
 
 # Pronoun 
 

@@ -1,5 +1,6 @@
 
 ### if `[action]`, then `[result]`
+
 |                                           | Action       | Result             |
 | ----------------------------------------- | ------------ | ------------------ |
 | Zero Conditional (real)                   | Present      | Present            |
@@ -8,8 +9,10 @@
 | Third Conditional (past hypothetical)     | Past Perfect | Modal-Past Perfect |
 | Mixed conditional                         | Past Perfect | Modal-Past         |
 
-- Conditionals can be simple/progressive
+- Conditionals can be simple/progressive, and active/passive 
 - The result sentence can be indicative, interrogative, and imperative. (in imperative, the action need to be present)  
+	- (indicative, second cond.) *If I lost my job, then I would look for another one.*
+	- (interrogative, second cond.) *What would you do if you lost your job?*
 - Past Perfect (Action in 3rd and mixed cond.) can be replaced with ***were to have + (past participle)***.
 	- *If you **had called** me, I would have come.* -> *If you **were to have called** me, I would have come.* 
 - Using "will" after "if" 

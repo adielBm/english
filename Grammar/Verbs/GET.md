@@ -6,7 +6,6 @@
 - `get [NP] [NP]` - Get John a drink.
 - `get [NP] for [NP]` -  Get a drink for John.
 
-
 # state/condition
 
 ## become
@@ -74,7 +73,6 @@ ___
 	-  It was a lot of fun. I got to see Arkansas. I got to see that country.
 
 ___
-
 # Expressions 
 - They **got a divorce** in 1998. (compare the more formal: They divorced in 1998.)
 

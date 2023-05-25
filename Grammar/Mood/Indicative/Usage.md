@@ -3,7 +3,7 @@
 
 ## Present Simple 
 
-- **habits / routines** - *I always **brush** my teeth before bed*
+- #habit - *I always **brush** my teeth before bed* 
 - **facts** - *The sun **rises** in the East*
 - **quoting someone** ^[even if the words were spoken in the past] - *Mary **says** she's ready*
 - **arranged future event** - *The train **arrives** at 10pm tonight*
@@ -41,7 +41,7 @@
 ## Past Simple 
 
 - **Specified time in the past** - *I **visited** Paris last year*
-- Past habitual actions - *I **visited** them every day for a year*
+- Past #habit - *I **visited** them every day for a year*
 - Refer to a past state - *I **knew** how to fight even as a child*
 - Facts - *Columbus **discovered** America in 1492*
 - Stative verbs - *At three o'clock yesterday we **were** in the garden*

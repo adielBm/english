@@ -113,7 +113,7 @@
 	- _(adult to a child who is refusing to pick up an object she has thrown on the floor) You will pick it up and you’ll pick it up now!_ 
 	- _You **will** ring me as soon as you get there, **won’t** you?_
 	- *You'**ll** do it this minute!*
-- #habiit
+- #habit 
 	- *She'**ll** listen to music, alone in her room, for hours.*
 - #disapproval
 	- _He will leave that door open every time he goes through!_
@@ -121,16 +121,20 @@
 
 ## would
 
-#### Past time
+https://en.wiktionary.org/wiki/would
 
+#### Past time
 - Reported clauses    
 	- _I knew that would cause a problem._                                   
-- Future-in-the-past  
-	- _John left for the front; he would not return until five years later._ 
-- Habitual actions    
-	- _We would always go to the seaside for our holidays._              
-- Volition            
-	- _I did ask him, but he wouldn’t give me an answer._             
+- #future-in-the-past  
+	- _John left for the front; he **would** not return until five years later._ 
+	- *On my first day at University, I met the woman who **would** become my wife.*
+- Past #habit 
+	- _We **would** always go to the seaside for our holidays._              
+	- *When we were younger, we **would** cycle out to the beach most summer Sundays.*
+- #volition #desire #intention
+	- _I did ask him, but he wouldn’t give me an answer._ 
+	- *He said he would always love her.*
 - Responding          
 	- _It was a freezing cold morning and the car wouldn’t start._     
 
@@ -138,8 +142,11 @@
 - Hedging
 	- I **would** always recommend a slightly softer bed than a harder one.  
 	- I’d say you are about 40.                                              
- Requests           
+- Polite #requests           
 	 - Would you please be quiet?                                            
+- Hypothetical Conditional
+	- *If I won the lottery, I **would** give half the money to charity.*
+
 
 ## shall
 Shall has two main meanings; one refers to future intentions, the other is concerned with offers and advice.

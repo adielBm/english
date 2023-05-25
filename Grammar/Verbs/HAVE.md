@@ -1,7 +1,6 @@
 ***have*** can be replaced sometimes with ***have got***, or ***got*** 
 
 ___
-
 - possess (own/hold) 
 	- *He had a new car and a boat.*
 - consist of 
@@ -19,8 +18,6 @@ ___
 
 ## have to
 
-
-
 -  `have to [VP]`
 - *(informal)*  `have got to [VP]` 
 - *(very informal)* `got to [VP]`
@@ -30,7 +27,6 @@ ___
 >***have got to*** is the same like ***have to***, but the interrogative and negative of that are formed by subject-verb inversion.
 
 syn: #need
-
 
 ## cause
 - `have [NP] [Verb]` - cause someone (NP) to do something (Verb) (by a command, request or invitation) 
@@ -46,8 +42,10 @@ syn: #need
 
 ###  *have*-pseudo-passives
 - `have [NP] [V3]`
-	- *They had their bike stolen last year
-	- *She had her purse stolen.*
+	- *They **had their bike stolen** last year
+	- *She **had her purse stolen**.*
+	- I had my car cleaned by a professional.
+	- I have this house looked at.
 
 ## do
 -  `have [NP]` - to perform the action (NP) mentioned
