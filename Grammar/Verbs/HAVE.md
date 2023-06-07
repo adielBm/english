@@ -26,8 +26,6 @@ ___
 
 >***have got to*** is the same like ***have to***, but the interrogative and negative of that are formed by subject-verb inversion.
 
-syn: #need
-
 ## cause
 - `have [NP] [Verb]` - cause someone (NP) to do something (Verb) (by a command, request or invitation) 
 	- *If you wait, I'll **have someone collect** it for you.*

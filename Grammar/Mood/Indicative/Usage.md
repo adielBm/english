@@ -15,9 +15,9 @@
 ## Present Progressive
 
 - **ongoing actions** - *We are walking the dog*
-- **temporary situations** - *It's raining in San Francisco rigth now*
+- **temporary situations** - *It's raining in San Francisco right now*
 - **temporary activity** - *I am writing a book this month*
-- **future meaning** 
+- #future  
 	- *He is playing golf tomorrow* 
 	- *What time is she arriving?*
 	- *I’m going to take a few exams at the end of the year.*

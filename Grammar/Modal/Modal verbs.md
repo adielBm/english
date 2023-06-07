@@ -13,12 +13,13 @@
 - Modal verbs do not have infinitive forms, either with *to* or without. 
 - Modal verbs have no *-ing* form and no *-ed* participle form and therefore lack progressive and perfect forms
 - Modal verbs are placed first in the verb phrase and are followed by a verb in the base form. The next verb may be a lexical verb or an auxiliary verb (be, do, have) or the substitute verb do, but cannot be another modal verb.
-- Modal verbs cannot be used as lexical verbs. (*~~I must to bed~~*)
+- Modal verbs cannot be used as lexical verbs. (*~~I must to bed~~,* *~~I should your help~~,*)
 - Modal verbs can only stand alone when the lexical verb is understood. (*A: He might have a phone. B: Yes, he might.*)
 
 ## Form
-| Aspect \ Voice      | Active                         | Passive                        |
-| ------------------- | ------------------------------ | ------------------------------ |
+
+| Aspect \ Voice      | Active                       | Passive                      |
+| ------------------- | ---------------------------- | ---------------------------- |
 | Simple              | modal verb                   | modal **be** V3              |
 | Progressive         | modal **be** verb-ing        | modal **be being** V3        |
 | Perfect             | modal **have** V3            | modal **have been** V3       |
@@ -77,7 +78,6 @@
 
 - #probability
 	- _They wanted to know if they **might** come later._
-- #probability
 	- _They **might** be at home._
 - #permission
 	- _**Might** I speak to Mrs Lutterworth?_
@@ -144,25 +144,25 @@ https://en.wiktionary.org/wiki/would
 	- I’d say you are about 40.                                              
 - Polite #requests           
 	 - Would you please be quiet?                                            
-- Hypothetical Conditional
+- Hypothetical [[Conditionals]]
 	- *If I won the lottery, I **would** give half the money to charity.*
 
-
 ## shall
-Shall has two main meanings; one refers to future intentions, the other is concerned with offers and advice.
 
-#### #future intentions
-
-- _Shall_ is used instead of _will_ with first person subjects in rather formal contexts to make predictions and to announce intentions or decisions. It is much less frequent than _will_
-- _Shall not/shan’t_ is very rarer, but does occur in formal contexts to make predictions and announce intentions or decisions
-
-#### Making offers and seeking advice
-
-Shall in first person interrogatives is much more frequent than other uses of shall and is common in the making of offers and suggestions, and in seeking advice: _Shall we go and have a walk in the garden?_
-
-#### #directives
-
-Shall is also used to issue directives but this use is very formal and rare: _(notice in an aircraft cabin) This curtain shall be left open during takeoff and landing._
+- #future intentions
+	- **_Shall_** is used instead of _will_ with first person subjects in rather formal contexts to make predictions and to announce intentions or decisions. It is much less frequent than _will_
+	- **_Shall not/shan’t_** is very rarer, but does occur in formal contexts to make predictions and announce intentions or decisions
+	- *I **shall** sing in the choir tomorrow.*
+	- *I hope that we **shall** win the game.*
+- #suggestions #requests 
+	- _Shall we go and have a walk in the garden?_
+	- *Shall I help you with that?*
+	- *Shall we go out later?*
+	- *Let us examine that, shall we?*
+- #directives 
+	- (notice in an aircraft cabin) _This curtain shall be left open during takeoff and landing._
+- #obligation 
+	- *Citizens shall provide proof of identity.*
 
 ## should
 
@@ -170,11 +170,23 @@ Shall is also used to issue directives but this use is very formal and rare: _(n
 	- He should have been here at five and he’s not here yet.
 	- She should be wearing glasses.
 
+- #possibility #probability #future 
+	- They should have it finished by Friday.
+	- When you press this button, the pilot flame should ignite.
+	- You should be warm enough with that coat.
+
 In AmE, the present #subjunctive is commonly used instead of should (e.g., "suggest that he stay"), while in BrE, should is commoner (e.g., "suggest that he should stay").
 
 ## must 
-#todo
 
+- #duty #obligation #imperative 
+	- You must arrive in class on time. 
+	- This door handle must be rotated fully. 
+	- 
+- #prohibition 
+	- He **must not** fight with his sister.
+- #probability 
+	- The children must be asleep by now.
 
 ___
 
@@ -196,3 +208,11 @@ ___
 ##### #probability
 
 Could, may and might are all used to express degrees of certainty. May expresses a slightly greater degree of certainty than could, and tends to be used in more formal contexts. Might is more tentative than may or could.
+
+## Replacements for Modal
+
+- The modals _can_ and _could_, in their meanings expressing #ability, can be replaced by _am/is/are able to_ and _was/were able to_. Additional forms can thus be supplied: the infinitive _(to) be able to_, the subjunctive and (rarely) imperative _be able to_, and the participles _being able to_ and _been able to_.
+- The modals _may_ and _might_, in their meanings expressing #permission, can be replaced by _am/is/are allowed to_ and _was/were allowed to_.
+- The modal _must_ in most meanings can be replaced by _have/has to_. This supplies the past and past participle form _had to_, and other forms _(to) have to_, _having to_.
+- _Will_ can be replaced by _am/is/are going to_. This can supply the past and other forms: _was/were going to_, _(to) be going to_, _being/been going to_.
+- 
