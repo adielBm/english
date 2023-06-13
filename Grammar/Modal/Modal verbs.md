@@ -59,13 +59,13 @@
 
 ## may 
 
-- #probability
-	- _There’s a bank holiday in between, so it **may** or **may not** get to you by the end of that week._
+- #possibility 
+	- *That **may** be true
+	- *You **may** be right*
 - #permission
 	- _**May** I go to the bathroom? Yes, you may_
 	- _**May** I see that? No, you may not_
-- General truths
-	-  _Frog spawn **may** be found in river beds at that time of year._ (is typically/normally found)
+	- *You **may** leave the room*
 - #wish #hope #subjunctive
 	- _**May** you both have a long and happy married life together._
 	- ***May** she rest in peace*
@@ -76,19 +76,24 @@
 
 ## might
 
-- #probability
-	- _They wanted to know if they **might** come later._
+- #possibility #probability (less certain than *may*)
 	- _They **might** be at home._
-- #permission
+	- I might see you tomorrow.
+	- It looks nice, but it might be very expensive.
+	- It's quite bright. It might not rain today.
+- #permission (very formal)
 	- _**Might** I speak to Mrs Lutterworth?_
-	- *He asked me if he **might** go to the party, but I haven't decided yet.*
 	- ***Might** I take the last biscuit?*
-- #suggestions
-	- _You **might** like to try one of our wonderful desserts._
-- #possibility 
+- #permission (in **past** tense)
+	- *He asked me if he **might** go to the party, but I haven't decided yet.*
+	- _They wanted to know if they **might** come later._
+- #possibility (in **past** tense)
 	- _I thought that I **might** go the next day._
 - #although
 	- *I **might** be in a wheelchair, but I still want to be treated as a lady*.
+- #suggestions
+	- _You **might** like to try one of our wonderful desserts._
+
 
 ## will
 

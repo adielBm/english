@@ -16,8 +16,6 @@
 |          | `/ʊ/`   | good, stood, wood, hood, soot, foot, hoof, woof                             |                          |
 |          | `/ʌ/`   | blood, flood                                                                | very exceptional         |
 |          | `/ʊ/`   | book, look, cook                                                            | `<ook>`                  |
-|          | `/ɔ/`   | door, floor                                                                 | `<oor>`                  |
-|          | `/ʊ/`   | boor                                                                        |                          |
 | `<ow>`   | `/oʊ/`  | show, know                                                                  |                          |
 |          | `/aʊ/`  | town, now                                                                   |                          |
 | `<oy>`   | `/ɔɪ/`  | boy, joy                                                                    |                          |
@@ -26,13 +24,11 @@
 |          | `/u/`   | shoe                                                                        |                          |
 |          | `/ə/`   | does                                                                        |                          |
 | `<oa>`   | `/oʊ/`  | loan, road, oat                                                             |                          |
-|          | `/ɔ/`   | board, oar                                                                  | `<oar>`                  |
 | `<ou>`   | `/aʊ/`  | house, out, south                                                           | Most often               |
 |          | `/ə/`   | famous, jealous                                                             | unstressed syllables     |
 |          | `/u/`   | youth, group                                                                | less often               |
 |          | `/ʌ/`   | trouble                                                                     |                          |
 |          | `/oʊ/`  | soul                                                                        |                          |
-|          | `/ɔ/`   | four, pour                                                                  | `<Cour>`                 |
 |          | `/ʊ/`   | could, should, would                                                        | `<oul>` only those words |
 | `<ough>` | `/oʊ/ ` | though, doughnut, although, dough                                           |                          |
 |          | `/u/`   | through                                                                     |                          |
