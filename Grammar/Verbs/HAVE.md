@@ -24,7 +24,7 @@ ___
 
 >The interrogative and negative of have to are formed most commonly with **auxiliary *do*** or, less commonly, in formal contexts, by subject-verb inversion.
 
->***have got to*** is the same like ***have to***, but the interrogative and negative of that are formed by subject-verb inversion.
+>***have got to*** is the same as ***have to***, but the interrogative and negative of that are formed by subject-verb inversion.
 
 ## cause
 - `have [NP] [Verb]` - cause someone (NP) to do something (Verb) (by a command, request or invitation) 
@@ -47,9 +47,9 @@ ___
 
 ## do
 -  `have [NP]` - to perform the action (NP) mentioned
-- **Commonly used *nouns*** (*bath, shower, wash, scrub, break, holiday, rest, care, turn, chance, decision, risk, argument, dispute, fight, quarrel, chat, conversation, discussion, talk, meal, breakfast, lunch, dinner, snack, cup of tea*)
+- **Commonly used *nouns*** (*bath, shower, wash, scrub, break, holiday, rest, care, turn, decision, risk, argument, dispute, fight, quarrel, chat, conversation, discussion, talk, meal, breakfast, lunch, dinner, snack, cup of tea*)
 	- We **have a walk** after lunch.
-	- We **had a dance** and afterwards we sat outside and talked.
+	- We **had a dance** and afterward we sat outside and talked.
 	- May I **have a look** at your newspaper?" "Of course you can."
 	- I am going to **have a nice nap**.
 	- She **had a smoke**.
@@ -83,7 +83,7 @@ ___
 - She had him by the collar.
 - He had his head in his hands.
 
-to do 
+#todo 
 https://english.stackexchange.com/questions/63256/which-is-correct-has-died-or-died/63263#63263
 https://english.stackexchange.com/questions/120721/have-vs-have-got-in-american-and-british-english
 https://www.oxfordlearnersdictionaries.com/definition/american_english/have_1

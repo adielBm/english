@@ -72,7 +72,7 @@
 	- ***May** god bless you*
 	- ***May** the weather be sunny*
 	- Wishes are often cast in the #imperative (*Have a great day!*) rather than the subjunctive mood (May you have a great day) Subjunctive may lend a more formal, literary, or solemn feeling (perhaps jocularly so) to the wish. 
-	- Wishes in the subjunctive need not use ***may*** if the meaning is clear without it, which is the case mainly for established expressions in the third-person singular such as *God help you*.
+	- Wishes in the subjunctive need not use ***may*** if the meaning is clear without it, which is the case mainly for established expressions in the third-person singular, such as *God help you*.
 
 ## might
 
@@ -101,16 +101,16 @@
 	- _He **will** play tennis tomorrow._
 	- _How long **will** you be staying in Paris?_
 - #predictions 
-	- I think we’ll do it but it won’t be easy
+	- I think we’ll do it, but it won’t be easy
 	- If she gets the right grades, she’ll go to university.
 - #ability 
 	- *Unfortunately, only one of these gloves **will** actually fit over my hand.*
 	- *This jar **will** hold a pint.*
 - #requests            
 	- _**Will** you pass me that newspaper please?_                    
-	- ***Will** you send this letter for me, please?*
+	- ***Will** you send this letter to me, please?*
 	- ***Will*** you give that to Tony when you see him, please?
-	- ***Will*** you pass me the salt please?
+	- ***Will*** you pass me the salt, please?
 - #invitations         
 	- _**Will** you join us for a drink after the concert?_                                                        
 - #directives           
@@ -129,7 +129,7 @@
 https://en.wiktionary.org/wiki/would
 
 #### Past time
-- Reported clauses    
+- reported clauses    
 	- _I knew that would cause a problem._                                   
 - #future-in-the-past  
 	- _John left for the front; he **would** not return until five years later._ 
@@ -145,7 +145,7 @@ https://en.wiktionary.org/wiki/would
 
 #### Other uses
 - Hedging
-	- I **would** always recommend a slightly softer bed than a harder one.  
+	- I **would** always recommend a slightly softer bed than a harder one.
 	- I’d say you are about 40.                                              
 - Polite #requests           
 	 - Would you please be quiet?                                            

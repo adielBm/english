@@ -18,7 +18,7 @@ In the traditional past subjunctive, ***were*** is used with all subjects, thoug
 
 - *I wish I **were** rich.* 
 - *If she **were** here, she would know what to do.*
-- *If your father **were** alive he would help you.*
+- *If your father **were** alive, he would help you.*
 - *I wish that it **were** Sunday.*
 - *I wish that I **were** with you.*
 

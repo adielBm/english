@@ -57,25 +57,25 @@ In what way; to what extent.
 		- **To whom** did Robin give candy? (formal)
 		- **Who** did Robin give candy **to**? (informal)
 - Affirmative: *You speak to Bob*
-	- pronoun of ***direct object*** ('Bob') with prepostion
+	- pronoun of ***direct object*** ('Bob') with preposition
 		- **To whom** did you speak? (formal)
 		- **Who** did you speak **to**? (informal)
 - Affirmative: Leo ate my sandwich.
 	- pronoun of ***subject***: (who='Leo')
 		- Who ate my sandwich?
-	-  pronoun of non-humen ***direct object*** (what='my sandwich')
+	-  pronoun of non-human ***direct object*** (what='my sandwich')
 		- What did Leo eat?
 
 #### Usage notes
 
-- ***(prepostion) whom...*** (formal) and ***Who ... (prepostion)*** (informal) are used where in the affirmative there is ***(verb) (prepostion) (someone)***.
+- ***(Preposition) whom...*** (formal) and ***Who ... (preposition)*** (informal) are used where in the affirmative there is ***(verb) (preposition) (someone)***.
 	-  **With whom** did you go? (formal). **Who** did you go **with**? (informal)
 	-  **To whom** did you give it? (formal). **Who** did you give it **to**? (informal)
 	-  **Of whom** are you speaking? (formal) **Who** are you speaking **of**? (informal)
 - ***Who*** can also be used as an object pronoun instead ***whom***, especially in informal writing and speech, and *whom* may be seen as (overly) formal.
 
 ### *whose* 
-- possessive from of who
+- possessive form of who
 	- determiner: 
 		- Whose bike is that? (That is Daniel's bike)
 		- Whose house is this? (This is his house)

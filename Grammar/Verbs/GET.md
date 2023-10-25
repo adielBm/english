@@ -4,7 +4,7 @@
 ## bring
 - `get [NP]` - Let me go **get my glasses**
 - `get [NP] [NP]` - Get John a drink.
-- `get [NP] for [NP]` -  Get a drink for John.
+- `get [NP] for [NP]` - Get a drink for John.
 
 # state/condition
 
@@ -24,7 +24,7 @@
 # Causative  
 
 - `get [NP] [Adj]` 
-	- She had to **get the kids ready** for school  (=prefare)
+	- She had to **get the kids ready** for school (=prepare)
 - `get [NP] [V3]` - 
 	- I'm trying to **get this article finished** by Thursday
 	- *They got their house built* (causative =*They build their house*) 
@@ -61,27 +61,27 @@ ___
 - `get [object]` - the police **get him**
 
 ## deal with 
-- `get [object]` - Someone's at the door - would you **get it** , please?
+- `get [object]` - Someone's at the door - would you **get it**, please?
 
 ## understand
-- `get [object]` - I told that joke to Sophia, but she didn't **get it** .
+- `get [object]` - I told that joke to Sophia, but she didn't **get it**.
 
 ## have chance
 - `get to [verb]` - 
 	- I never **get to see** her now that she works somewhere else.
-	- That’s great advice. I’m so glad I **got to talk** to you
+	- That’s great advice. I’m so glad I **got to talk** to you.
 	-  It was a lot of fun. I got to see Arkansas. I got to see that country.
 
 ___
 # Expressions 
 - They **got a divorce** in 1998. (compare the more formal: They divorced in 1998.)
 
-# Phresal verbs
+# Phrasal verbs
 - get **up to** – do
 - get **on with** (someone) – have a good relationship
 - get **over** (something/someone)  –  recover from
 - get **away with** (something)  – be successful in something
-- get **at** (someone) – criticise someone repeatedly
+- get **at** (someone) – criticize someone repeatedly
 - get **rid of** (something)  –  remove/throw away something
 - get **out of** (doing something) – avoid something you don’t want to do
 - get **off lightly** – to experience less trouble than expected

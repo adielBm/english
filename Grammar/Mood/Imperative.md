@@ -5,7 +5,7 @@ English usually omits the subject pronoun in imperative sentences:
 
 ## Negative imperative
 
-English imperatives are negated using _don't_ (as in "Don't work!") This is a case of _do_-support as found in indicative clauses; however in the imperative it applies even in the case of the verb _be_ (which does not use _do_-support in the indicative):
+English imperatives are negated using _don't_ (as in "Don't work!") This is a case of _do_-support as found in indicative clauses; however, in the imperative it applies even in the case of the verb _be_ (which does not use _do_-support in the indicative):
 
 -   *You **are not** late.* (indicative)
 -   ***Don't be** late!* (imperative)
@@ -28,7 +28,7 @@ We can also use words like someone, somebody, no one, nobody, everyone, everybod
 
 - ***Somebody** call a doctor. Quick!*
 - ***Everybody** sit down, please.*
-- *It’s a surprise party so **don’t anybody** mention it to Jim*.
+- *It’s a surprise party, so **don’t anybody** mention it to Jim*.
 
 ## short responses
 
@@ -59,9 +59,9 @@ Negative imperative of let’s
 - (formal) ***Do let’s** try to be more environmentally friendly.*
 
 #### Negative 
+
 - **_Let’s not** forget to lock the door!_
 - (formal) _**Don’t let’s** mention anything about her husband. I think they’ve split up._
-
 ## Imperatives as offers and invitations
 
 - _**Have** another piece of melon._

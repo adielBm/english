@@ -1,8 +1,8 @@
 
 | Spelling | IPA    | Examples                                                                     | Notes                                      |
 | -------- | ------ | ---------------------------------------------------------------------------- | ------------------------------------------ |
-| `<i>`    | `/ɪ/`  | pink, hint, big, lid, bill, kid                                              | closed stressed syllable                   |
-|          | `/aɪ/` | kind, mind, bind, find, wind                                                 | ends with the `<-ind>` letter combinations |
+| `<i>`    | `/ɪ/`  | pink, hint, big, lid, bill, kid, wind                                             | closed stressed syllable                   |
+|          | `/aɪ/` | kind, mind, bind, find                                                  | ends with the `<-ind>` letter combinations |
 |          |        | side, time, wise                                                             | `<i-e>`    *silent 'E'*                    |
 |          |        | climb, child, pilot                                                          |                                            |
 |          | `/i/`  | machine, police, prestige, unique, ski, magazine, pizza, technique, souvenir | very exceptional                           |

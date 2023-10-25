@@ -4,7 +4,7 @@
 
 - Voiceless plosives `/p, t, k/`
 
-- **Aspirated** before stressed vowels (in stressed syllables) or approximants (`/w/, /j/, /l/, /r/`)
+- **Aspirated** before stressed vowels (in stressed syllables) or approximates (`/w/, /j/, /l/, /r/`)
 - aspirated (but with weaker aspiration in unstressed syllables)
 
 - `[tʰ]` - top, two, tick, tie, tube, tune, tuesday
@@ -23,11 +23,13 @@
 - unaspirated after Voiceless fricatives  `/s, f, ʃ/` in a syllable-initial cluster
 - **unaspirated** `/p/, /t/, /k/` and **unaspirated** `/b/, /d/, /g/` are sound kind of the same
 - `/s/`
-	- stack, steal, store, still, strat, story, style
+	- stack, steal, store, still, start, story, style
 	- speech, spit, sport, spill, spy
 	- screen, school, skill
 - `/f/`
-	- 
+- 
+
+- (Speech is really SBEECH! - Dr Geoff Lindsey - https://youtu.be/U37hX8NPgjQ )
 #### Unaspirated `[k]`
 
 - quite `[ˈkwaɪt]`, 
@@ -43,31 +45,34 @@ ___
 | `[sp, st, sk]` | Unaspirated or "soft" immediately after /s/                         | spill, still, skill                            |
 | `[p̚, t̚, k̚]` | Unreleased airflow at word boundaries, or before another obstruent  | rap, rat, rack; napsack, night rate, tick-tock |
 
-# Voiceless Bilabial  `/p/`
 
-## Aspirated `[pʰ]` & Unaspirated `[p]` 
+# Plosives (סותמים)
+
+## Voiceless Bilabial Plosive  `/p/`
+
+### Aspirated `[pʰ]` & Unaspirated `[p]` 
 
 >see [[Allophones#Aspiration]]
 
-## Unreleased `[p̚]`
+### Unreleased `[p̚]`
 
 - before silence - rap, lap, sheep, 
 - syllable-final position before a consonant - apt, napsack, update
 
-# Voiceless Alveolar `/t/`
+## Voiceless Alveolar Plosive `/t/`
 
-## Aspirated `[tʰ]` & Unaspirated `[t]` 
+### Aspirated `[tʰ]` & Unaspirated `[t]` 
 
 >see [[Allophones#Aspiration]]
 
-## Unreleased `[t̚]` 
+### Unreleased `[t̚]` 
 - before consonant
 	- what do - `[what̚ do]`
 	- next word (*it was, can’t go, didn’t like, eight weeks, might do, at work, won’t need, budget cut*) 
 	- the same word (*football, lately, atmosphere, Atlanta, outside, nightmare, atlas, butler*)
 - before silence - lap
 
-## Glottal stop `[ʔ]` 
+### Glottal stop `[ʔ]` 
 
 - Glottal stop before `/n/`
 
@@ -80,11 +85,12 @@ ___
 | importent | `/ɪm.ˈpɔɹ.tənt/` | `[ɪmˈpʰɔɹʔn̩t]` |
 | gotten    | `/ˈɡɑtn̩/`       | `[ˈɡɑʔn̩]`      |
 
-##  Alveolar flap (tap) `[ɾ]`
+###  Voiced alveolar tap (flap) `[ɾ]`
 
 - between a stressed syllable and an unstressed syllable (a**t**om, smar**t**er, bu**tt**er, bo**tt**le, la**tt**er, na**t**ive, ma**tt**er, water `[ˈwɔɾɚ]`)
 - between two unstressed syllables (pocke**t**ed)
 - Turns pairs of words such as into homophones of `/t/` and `/d/`
+
 |        |        | s          |
 | ------ | ------ | ---------- |
 | atom   | Adam   | `[ˈæɾəm]`  |
@@ -95,13 +101,13 @@ ___
 | catty  | caddy  | `[ˈkʰæɾi]` |
 |        |        |            |
 
-## `/t/` and `/d/` dropped
+### `/t/` and `/d/` dropped
 
 - after `/n/`, when the t is unstressed  
 - winter, mental, counter, center, internet, wanted, twenty, importantly, painted, gentlemen
 - sandwich
 
-# Voiceless velar plosive `/k/`
+## Voiceless velar plosive `/k/`
 
 
 

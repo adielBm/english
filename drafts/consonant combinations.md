@@ -10,34 +10,34 @@
 ## `<o>`
 
 `<-o->`
-- `<-ot>`
+- `<-t>`
 	-  `/ɑ/`  hot, not, lot, got, jot, rot, cot, pot, bot, tot, dot, thot, sot
-- `<-op>` 
+- `<-p>` 
 	- `/ɑ/`  stop, top, shop
 	- `/ɔ/` nop
-- `<-og>`
+- `<-g>`
 	- `/ɔ/` dog, fog, bog, log, pog, cog
-- `<-of>` 
+- `<-f>` 
 	- `/ɔ/` off
- - `<-os>` 
-	-  `/ɔ/` loss
- - `<-ol>` 
+ - `<-s>` 
+	-  `/ɔ/` loss, boss, moss, toss
+ - `<-l>` 
 	 - `/ɑ/` - col, sol
- - `<-omb>`
+ - `<-mb>`
 	- `/oʊ/` comb
 	- `/ɑ/` bomb
 	- `/u/` - tomb
-- `<ost>`
+- `<st>`
 	- `/oʊ/` - most, post, host
 	- `/ɔ/` - lost, cost, 
-- `<oth>`
+- `<th>`
 	- `/oʊ/` - both
 	- `/ɔ/` - moth, cloth, sloth
 
 
 ### `<-o-e>`
 
-- `/oʊ/` - hope, home, hole, those, close, alone, phone, whole, bone, cone, hone, lone, tone, clone, lobe, robe, globe, rove, dome, tome, nose, pose, rose, dose, pole, role, dole, tote, vote, 
+- `/oʊ/` - hope, home, hole, those, close, alone, phone, whole, bone, cone, hone, lone, zone, pone, tone, clone, lobe, robe, globe, rove, dome, tome, nose, pose, rose, dose, pole, role, dole, tote, vote, 
 - `/ʌ/` come, done, none, shove, dove, love
 - `/ɔ/` - gone, solve
 -  `/u/` - move, lose, prove, whose

@@ -1,7 +1,7 @@
 
 | Spelling | IPA      | Examples                                 | Notes                           |
 | -------- | -------- | ---------------------------------------- | ------------------------------- |
-| `<u>`    | `/ʌ/`    | but, cup, bus, sum                                 | in a closed stressed syllable   |
+| `<u>`    | `/ʌ/`    | STRUT, but, cup, bus, sum                | in a closed stressed syllable   |
 |          |          | dull, hull, null, lull, gull, mull, cull |                                 |
 |          | `/ʊ/`    | full, pull, bull                         |                                 |
 |          |          | bush, push                               | `<ush>`                         |
@@ -12,6 +12,7 @@
 |          | `/ju/`   | amusing                                  |                                 |
 |          |          | cube, cute                               | `<u-e>` *silent `<e>`*          |
 |          | `/jʊ/`   | fury                                     |                                 |
+|          | `/ə/`    | support, supply                          | **unstressed**                  |
 | `<ui>`   | `/u/`    | fruit, juice                             |                                 |
 |          | `/aɪ/`   | guide                                    | `<gu>` silent, and `<e>` silent |
 |          | `/wi/`   | suite                                    | very exceptional                |
