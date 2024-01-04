@@ -51,4 +51,3 @@
 - $\ce{S -> NP \quad VP}$
 - $\ce{NP -> (Det) \quad N_1}$
 - $\ce{N_1 -> (AP) \quad N_1 \quad (PP)}$
-- 

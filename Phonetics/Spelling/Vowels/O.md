@@ -1,6 +1,4 @@
 
-
-
 | Spelling | GA                         | Examples                                                                                               | Notes                    |
 | -------- | -------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------ |
 | `<o>`    | `/ɑ/` (RP `/ɒ/`)           | **LOT**, hot, not, stop, shop, job, stop, sock, dodge, romp, possible                                  |                          |
@@ -14,8 +12,8 @@
 |          | `/ʌ/`                      | come, love, color, nothing, done, wonder, dove, none, shove                                            |                          |
 |          | `/ə/`                      | person, today, second, reason, position, occur, control, police, lesson                                | **unstressed**           |
 |          | `/u/`                      | do, to, move                                                                                           |                          |
-| `<oo>`   | `/u/`                      | GOOSE, fool, too, room, soon                                                                                  |                          |
-|          | `/ʊ/`                      | FOOT, good, stood, wood, hood, soot, hoof, woof                                                        |                          |
+| `<oo>`   | `/u/`                      | **GOOSE**, fool, too, room, soon                                                                           |                          |
+|          | `/ʊ/`                      | **FOOT**, good, stood, wood, hood, soot, hoof, woof                                                        |                          |
 |          | `/ʌ/`                      | blood, flood                                                                                           | very exceptional         |
 |          | `/ʊ/`                      | book, look, cook                                                                                       | `<ook>`                  |
 | `<ow>`   | `/oʊ/` (RP `/əʊ/`) (GOAT)  | show, know                                                                                             |                          |
@@ -27,8 +25,8 @@
 |          | `/oʊ.ə/` (RP `/əʊ.ɪ/`)     | poem                                                                                                   |                          |
 |          | `/u/`                      | shoe, canoe                                                                                            |                          |
 |          | `/ə/`                      | does                                                                                                   |                          |
-| `<oa>`   | `/oʊ/` (RP `/əʊ/`) (GOAT)  | loan, road, oat                                                                                        |                          |
-| `<ou>`   | `/aʊ/`                     | **MOUTH**, house, out, south                                                                                      | Most often               |
+| `<oa>`   | `/oʊ/` (RP `/əʊ/`)         | **GOAT**, loan, road, oat                                                                                  |                          |
+| `<ou>`   | `/aʊ/`                     | **MOUTH**, house, out, south                                                                           | Most often               |
 |          | `/ə/`                      | famous, jealous                                                                                        | unstressed syllables     |
 |          | `/u/`                      | youth, group, you                                                                                      | less often               |
 |          | `/ʌ/`                      | trouble                                                                                                |                          |

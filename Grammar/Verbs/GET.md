@@ -1,4 +1,4 @@
-## recive, obtain
+## receive, obtain
 - `get [NP]` - Where did you **get your shoes** from?
 
 ## bring

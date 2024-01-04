@@ -126,15 +126,14 @@
 
 ## would
 
-https://en.wiktionary.org/wiki/would
-
-#### Past time
-- reported clauses    
-	- _I knew that would cause a problem._                                   
-- #future-in-the-past  
+- see [[Conditionals]]
+- #future-in-the-past reported clauses    
+	- _I knew that would cause a problem._        
+	- I knew I would graduate two years later
+	- I never thought I would be so alone.
 	- _John left for the front; he **would** not return until five years later._ 
 	- *On my first day at University, I met the woman who **would** become my wife.*
-- Past #habit 
+- #past-habit 
 	- _We **would** always go to the seaside for our holidays._              
 	- *When we were younger, we **would** cycle out to the beach most summer Sundays.*
 - #volition #desire #intention
@@ -142,15 +141,19 @@ https://en.wiktionary.org/wiki/would
 	- *He said he would always love her.*
 - Responding          
 	- _It was a freezing cold morning and the car wouldn’t start._     
-
-#### Other uses
-- Hedging
+- hedging
 	- I **would** always recommend a slightly softer bed than a harder one.
-	- I’d say you are about 40.                                              
-- Polite #requests           
-	 - Would you please be quiet?                                            
-- Hypothetical [[Conditionals]]
-	- *If I won the lottery, I **would** give half the money to charity.*
+	- I’d say you are about 40.
+	- I would imagine the job will take about two days.
+	- I'd say he was about fifty.
+- Polite requests           
+	 - Would you please be quiet?                                         
+	 - Would you mind leaving us alone for a few minutes?
+	- Would you open the door for me, please?
+- polite offers or invitations
+	- Would you like a sandwich?
+	- Would you have dinner with me on Friday?
+
 
 ## shall
 

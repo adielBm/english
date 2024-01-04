@@ -3,7 +3,7 @@ https://lingbase.com/en/english/grammar/silent-consonants
 
 - `<w>` is always pronounced as `/w/` when it occurs at the beginning of a syllable and before a vowel: well, water, will.
 - `<h>` is silent after `<w>` and before `/a/` vowel (except 'O'): when, why, what.
-    - `<h>` is silent in the begining of some words. (*hour, heir, honor, herb, homage, honest*) 
+    - `<h>` is silent in the beginning of some words. (*hour, heir, honor, herb, homage, honest*) 
     - `<h>` appears in a few consonant digraphs: `<ch>`, `<gh>`, `<ph>`, `<th>`, `<sh>` and `<wh>`
 - `<b>` is silent after `<m>` (*bomb, climb, comb, crumb, dumb, lamb, limb, numb, plumb, thumb, tomb*)
 - `<g>`

@@ -1,6 +1,4 @@
 
-
-
 | Spelling | IPA           | Examples                                                       | Notes                                     |
 | -------- | ------------- | -------------------------------------------------------------- | ----------------------------------------- |
 | `<e>`    | `/ɛ/`         | get, wet                                                       | almost always in closed stressed syllable |
@@ -21,7 +19,6 @@
 |          | `/i/`         | key, money, honey                                              |                                           |
 | `<ew>`   | `/u/`         | blew, chew, crew                                               |                                           |
 |          | `/ju/`        | few, dew, stew, view                                           |                                           |
-
 
 ### The `<ed>` ending
 
