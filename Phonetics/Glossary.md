@@ -15,28 +15,23 @@
 
 <img width="300" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/IPA-euler-manners-features.svg" />
 
-
-# Consonants
-| Manner of articulation | מידת החיתוך |
-| ---------------------- | ----------- |
-| flap                   | מקיש        |
-| alveolar               | מכתשי       |
-| obstruents             | חוסמים      |
-| plosives               | סותמים      |
-| fricative              | חוככים      |
-| affricate              | מחוּכָּכים  |
-| nasals                 | אפיים       |
-| approximants           | מקורבים     |
-
-
-### Place of articulation
-
-| Place of articulation | בסיס החיתוך |
-| --------------------- | ----------- |
-| Uvular                | ענבליים     |
-| Labial                | שפתיים      |
-| Velar                 | וילוניים    |
-| Glottal               | סדקיים      |
-|                       |             |
-
-
+- # Consonants
+  | Manner of articulation | מידת החיתוך |
+  | ---------------------- | ----------- |
+  | flap                   | מקיש        |
+  | alveolar               | מכתשי       |
+  | obstruents             | חוסמים      |
+  | plosives               | סותמים      |
+  | fricative              | חוככים      |
+  | affricate              | מחוּכָּכים  |
+  | nasals                 | אפיים       |
+  | approximants           | מקורבים     |
+- ### Place of articulation
+  
+  | Place of articulation | בסיס החיתוך |
+  | --------------------- | ----------- |
+  | Uvular                | ענבליים     |
+  | Labial                | שפתיים      |
+  | Velar                 | וילוניים    |
+  | Glottal               | סדקיים      |
+  |                       |             |

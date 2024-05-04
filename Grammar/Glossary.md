@@ -61,12 +61,15 @@
 
 
 # Preposition
+
 of, to, by, into, between, over, since
 
 ### Complex prepositions
+
 next to
 
 ### PARALLEL PREPOSITIONS
+
 ()
 
 ### Double preposition
@@ -153,14 +156,21 @@ participle - בינוני
 
 
 # Conjunctions
+
 - **Coordinating** conjunctions (coordinators) - (קשר איחוי) - (for, and, or, but, so)
 - **Correlative** conjunctions (קשר זווג) - (*both...and, whether...or, just as...so, the...the, as...as*)
 - **Subordinating** conjunction - (conjunctive adverbs) - (קשר שעבוד) - (*although, because, rather, however*)
 
 
+
+relative words - who, whom, whose, which, why, while
+
+
+
 ___
 
 # Interjections
+
 _yeah_, _ouch_, _Jesus_, _oh_, _mercy_, _yuck_, etc.
 
 
