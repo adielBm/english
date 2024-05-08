@@ -169,8 +169,7 @@ blintz /blɪnts/: A thin pancake filled with cheese or fruit.
 borscht /bɔrʃt/: A beet soup.  
 broyges /ˈbrɔɪɡəs/: A porridge-like dish.  
 pareve /ˈparəvə/: Neutral, neither meat nor dairy.  
-knaidel /ˈknaɪdəl/: A matzah ball.  
-kneidlach /ˈknaɪdləx/: Plural of knaidel.  
+knaidel /ˈknaɪdəl/ (pl. kneidlach /ˈknaɪdləx/) A matzah ball.  
 knish /knɪʃ/: A baked or fried dough filled with potato, meat, or other fillings.  
 kreplach /ˈkrɛpləx/: Small dumplings filled with meat or potato.  
 kugel /ˈkʊɡəl/: A baked pudding or casserole, often made with noodles or potatoes.  
@@ -188,9 +187,7 @@ milchig /ˈmɪlxɪk/: Dairy, food containing milk or milk products.
 glatt /ɡlat/: Strictly kosher.  
 khazer /ˈχazər/: A pig.  
 treyf /treɪf/ - not kosher, referring to food that does not conform to Jewish dietary laws.  
-kosher /ˈkoʊʃər/: See kasher.  
-kasher /ˈkoʊʃər/: Food that conforms to Jewish dietary laws.  
-chelev /ˈχɛlɛv/: Animal fat forbidden by kosher dietary laws.  
+
 
 ## vulgar
 
@@ -199,9 +196,7 @@ tuchus /ˈtʊxəs/ - buttocks, often used informally.
 
 shvantz /ʃvɑnts/ - a vulgar term for penis.  
 schmeckle, shmekl /ˈʃmɛklə/: Penis.  
-
  schmuck /ʃmʌk/: A jerk, an idiot. Vulgar term for penis. Used for an obnoxious or detestable person. More derogatory than shmo.
- 
 schlong /ʃlɔŋ/: Penis.  
 putz /pʌts/: A jerk, a fool. penis. 
 
