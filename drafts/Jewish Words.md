@@ -1,5 +1,7 @@
 
-cockamamy /ˈkɑːk.əˌmeɪ.mi/ - adj. French (cock-ah-MAY-mee) Absurd, ridiculous, foolish. Often thought to be a Yiddish word, cockamamy is a misspelling of the French decalcomania, a removable tattoo. “You want to go to Times Square on New Year’s Eve? What a cockamamy idea.”
+Some words...
+
+cockamamy `/ˈkɑːk.əˌmeɪ.mi/` - adj. French (cock-ah-MAY-mee) Absurd, ridiculous, foolish. Often thought to be a Yiddish word, cockamamy is a misspelling of the French decalcomania, a removable tattoo. “You want to go to Times Square on New Year’s Eve? What a cockamamy idea.”
 
 # Yiddish 
 
